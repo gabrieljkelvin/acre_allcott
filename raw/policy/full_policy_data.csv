@@ -1,0 +1,676 @@
+state,substate,state_fips,county_fips,geography,closing_of_public_venues,gathering_size_10_0,gathering_size_100_to_26,gathering_size_25_to_11,gathering_size_500_to_101,lockdown,non-essential_services_closure,Other,religious_gatherings_banned,school_closure,shelter_in_place,social_distancing,nyt_effective_date,crwd_business_closed,crwd_college_closed,crwd_lockdown,crwd_religion_closed,crwd_school_closed,hikma_event_date,hikma_school_date,hikma_shelter_date,hikma_shelter_enforcement_date,hikma_testing_date,hikma_transport_date,hikma_work_date,effective_date_sip,source_sip,effective_date_business,source_business
+Alabama,Jefferson,01,01073,county,03/17,03/19,NA,03/17,NA,NA,03/20,NA,03/17,03/16,NA,03/16,03/24,NA,NA,NA,NA,NA,03/16,03/18,04/04,04/04,03/23,NA,03/23,03/24,nyt,03/17,keystone_cpv
+Alabama,Lee,01,01081,county,03/17,NA,NA,03/17,NA,NA,NA,NA,NA,03/16,04/04,03/13,NA,NA,NA,NA,NA,NA,03/19,03/19,04/03,NA,03/16,NA,04/03,04/04,keystone_sip,03/17,keystone_cpv
+Alabama,Madison,01,01089,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/27,03/16,04/03,03/15,03/19,04/30,03/19,NA,NA,NA,NA,04/30,04/03,crwd_lockdown,03/27,crwd_business
+Alabama,Mobile,01,01097,county,03/18,NA,03/16,03/17,NA,NA,04/04,NA,04/04,03/17,04/04,03/13,NA,NA,NA,NA,NA,NA,03/20,04/06,03/20,NA,NA,NA,03/23,04/04,keystone_sip,03/18,keystone_cpv
+Alabama,NA,01,NA,state,03/28,03/28,03/16,03/19,03/13,NA,03/28,NA,04/04,03/20,04/04,04/03,04/04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/04,nyt,03/28,keystone_cpv
+Alaska,Anchorage,02,02020,county,03/16,NA,03/16,NA,NA,NA,03/22,NA,03/22,NA,03/22,03/22,03/22,NA,NA,NA,NA,NA,03/28,03/13,03/28,03/28,03/16,04/08,03/28,03/22,nyt,03/16,keystone_cpv
+Alaska,NA,02,NA,state,03/18,03/24,NA,NA,NA,NA,03/28,03/17,03/24,03/16,03/28,03/28,03/28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,nyt,03/18,keystone_cpv
+Arizona,Coconino,04,04005,county,03/19,03/19,NA,NA,03/19,NA,03/19,NA,NA,03/19,NA,03/19,NA,03/31,03/16,03/31,03/22,03/16,03/31,03/16,03/31,NA,04/16,NA,03/31,03/31,crwd_lockdown,03/19,keystone_cpv
+Arizona,Maricopa,04,04013,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,03/07,03/31,03/12,03/07,NA,03/30,NA,NA,03/23,NA,03/31,03/31,crwd_lockdown,03/31,crwd_business
+Arizona,Navajo,04,04017,county,03/20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/04,04/03,04/04,NA,NA,NA,04/04,04/04,hikma_shelter,03/20,keystone_cpv
+Arizona,Pima,04,04019,county,03/19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/16,03/28,03/16,03/20,03/17,03/16,03/31,03/31,NA,NA,03/23,03/28,crwd_lockdown,03/19,keystone_cpv
+Arizona,Pinal,04,04021,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/15,NA,NA,03/17,04/13,03/27,NA,NA,03/27,hikma_work
+Arizona,NA,04,NA,state,03/31,NA,NA,NA,NA,NA,03/31,NA,NA,03/15,03/31,03/31,03/31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,nyt,03/31,keystone_cpv
+Arkansas,Pulaski,05,05119,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,NA,NA,NA,03/19,03/23,03/25,03/12,03/12,03/26,03/12,NA,03/26,NA,NA,03/26,03/25,crwd_lockdown,03/19,crwd_business
+Arkansas,NA,05,NA,state,03/20,03/27,NA,NA,NA,NA,04/06,NA,NA,03/19,NA,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,keystone_cpv
+California,Alameda,06,06001,county,03/16,03/16,NA,NA,NA,NA,03/16,NA,03/31,03/16,03/16,03/31,NA,03/17,03/10,03/17,03/15,03/13,03/16,03/16,03/16,NA,04/03,NA,03/16,03/16,keystone_sip,03/16,keystone_cpv
+California,Contra Costa,06,06013,county,03/17,03/17,03/14,NA,NA,NA,03/17,NA,03/17,03/17,03/17,NA,NA,03/17,03/16,03/17,03/15,03/16,03/16,03/25,03/16,03/16,NA,NA,03/16,03/17,keystone_sip,03/17,keystone_cpv
+California,Fresno,06,06019,county,NA,03/16,NA,NA,NA,NA,NA,NA,03/16,NA,03/18,03/26,NA,03/18,03/12,03/18,03/13,03/13,03/16,03/16,03/19,04/11,04/08,NA,03/19,03/18,keystone_sip,03/18,crwd_business
+California,Kern,06,06029,county,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,03/16,03/19,NA,04/12,03/30,03/19,03/19,hikma_shelter,03/19,hikma_work
+California,Los Angeles,06,06037,county,03/16,03/21,03/16,NA,NA,NA,03/20,NA,03/20,NA,03/21,03/16,NA,03/19,03/10,03/19,03/19,03/27,03/19,03/16,03/19,04/07,03/24,NA,03/19,03/21,keystone_sip,03/16,keystone_cpv
+California,Marin,06,06041,county,03/17,03/17,NA,NA,NA,NA,03/17,NA,03/17,03/16,03/17,03/17,NA,03/17,03/16,03/17,03/17,03/14,NA,NA,NA,NA,NA,NA,NA,03/17,keystone_sip,03/17,keystone_cpv
+California,Orange,06,06059,county,NA,NA,NA,NA,NA,NA,03/18,NA,03/18,03/13,NA,NA,NA,03/17,03/16,03/17,03/17,03/16,03/17,03/16,03/17,NA,03/21,NA,03/17,03/17,crwd_lockdown,03/17,crwd_business
+California,Placer,06,06061,county,03/20,03/20,NA,NA,NA,NA,03/20,NA,03/20,03/16,03/20,03/20,NA,03/20,03/18,03/20,03/18,03/18,03/10,03/23,03/19,NA,NA,03/24,03/19,03/20,keystone_sip,03/20,keystone_cpv
+California,Riverside,06,06065,county,03/16,04/04,NA,NA,03/12,NA,03/13,NA,04/04,03/16,04/04,NA,NA,03/19,03/14,03/19,03/16,03/14,03/19,03/16,03/19,04/08,03/22,NA,03/19,04/04,keystone_sip,03/16,keystone_cpv
+California,Sacramento,06,06067,county,03/17,03/19,NA,NA,NA,NA,03/20,NA,NA,03/16,03/19,03/12,NA,03/19,03/14,03/19,03/19,03/07,04/07,03/16,03/19,NA,NA,NA,03/19,03/19,keystone_sip,03/17,keystone_cpv
+California,San Bernardino,06,06071,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/13,03/19,03/17,03/13,03/17,03/13,03/17,NA,04/14,04/05,03/17,03/19,crwd_lockdown,03/17,crwd_business
+California,San Diego,06,06073,county,03/16,03/18,03/16,NA,03/13,NA,NA,NA,NA,03/16,NA,03/13,NA,03/19,03/20,03/29,03/12,03/16,03/16,03/16,03/19,NA,NA,04/12,03/15,03/29,crwd_lockdown,03/16,keystone_cpv
+California,San Francisco,06,06075,county,03/17,03/17,03/13,NA,NA,NA,03/17,NA,03/17,03/16,03/17,03/17,NA,03/17,03/10,03/17,03/15,03/13,03/11,03/31,03/31,03/31,04/06,NA,03/31,03/17,keystone_sip,03/17,keystone_cpv
+California,San Joaquin,06,06077,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/19,NA,04/10,NA,03/19,03/19,hikma_shelter,03/19,hikma_work
+California,San Luis Obispo,06,06079,county,03/19,NA,NA,NA,NA,NA,03/19,NA,03/19,NA,03/19,03/19,NA,03/19,03/13,03/21,03/19,03/13,03/18,03/18,03/18,03/18,03/18,NA,03/18,03/19,keystone_sip,03/19,keystone_cpv
+California,San Mateo,06,06081,county,03/17,03/17,03/15,NA,03/13,NA,03/17,NA,03/17,03/16,03/17,03/11,NA,03/17,03/11,03/17,03/13,03/16,03/16,03/12,03/16,NA,03/26,NA,03/16,03/17,keystone_sip,03/17,keystone_cpv
+California,Santa Barbara,06,06083,county,NA,NA,NA,NA,03/12,NA,03/19,NA,NA,03/16,NA,03/12,NA,03/20,03/11,03/19,03/14,03/16,NA,NA,NA,NA,NA,NA,NA,03/19,crwd_lockdown,03/20,crwd_business
+California,Santa Clara,06,06085,county,03/17,03/17,03/14,NA,NA,NA,03/17,NA,03/17,03/17,03/17,03/17,NA,03/17,03/09,03/17,03/11,03/16,03/11,03/16,03/03,03/17,NA,NA,03/17,03/17,keystone_sip,03/17,keystone_cpv
+California,Sonoma,06,06097,county,03/17,03/17,NA,NA,03/13,NA,03/17,NA,NA,03/14,03/17,03/13,NA,03/18,03/12,03/12,03/12,03/14,03/13,03/14,03/18,03/18,03/10,NA,03/16,03/17,keystone_sip,03/17,keystone_cpv
+California,Tulare,06,06107,county,03/19,03/19,NA,NA,NA,NA,03/19,NA,03/19,03/19,03/19,03/19,NA,NA,NA,NA,NA,NA,03/19,03/17,03/19,03/19,05/04,NA,03/19,03/19,keystone_sip,03/19,keystone_cpv
+California,Ventura,06,06111,county,03/20,03/20,NA,NA,03/13,NA,03/20,NA,03/20,03/16,03/20,NA,NA,03/20,03/11,03/20,03/18,03/16,03/20,03/16,03/20,03/20,03/17,NA,03/20,03/20,keystone_sip,03/20,keystone_cpv
+California,NA,06,NA,state,03/19,03/16,NA,NA,03/11,NA,03/19,NA,03/19,03/19,03/19,03/19,03/19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,nyt,03/19,keystone_cpv
+Colorado,Adams,08,08001,county,03/26,03/26,NA,NA,NA,NA,03/26,NA,NA,03/20,03/26,03/26,03/26,03/26,03/14,03/26,03/17,03/13,03/26,03/16,03/26,03/29,04/14,NA,03/26,03/26,nyt,03/26,keystone_cpv
+Colorado,Arapahoe,08,08005,county,03/24,03/25,NA,NA,NA,NA,03/25,NA,03/25,NA,03/25,03/25,03/26,03/26,03/14,03/26,03/13,03/21,03/23,03/23,03/24,03/17,NA,NA,03/17,03/26,nyt,03/24,keystone_cpv
+Colorado,Boulder,08,08013,county,03/26,03/19,NA,NA,NA,NA,03/26,NA,NA,NA,03/26,03/26,03/24,03/26,03/11,04/02,03/15,03/13,03/26,03/18,03/26,03/26,NA,NA,04/27,03/24,nyt,03/26,keystone_cpv
+Colorado,Denver,08,08031,county,03/17,03/20,NA,NA,NA,NA,03/20,NA,NA,03/16,03/24,03/24,03/24,03/26,03/13,03/26,03/15,03/11,03/24,03/16,03/24,03/31,NA,04/19,03/24,03/24,nyt,03/17,keystone_cpv
+Colorado,Douglas,08,08035,county,03/26,03/26,NA,NA,NA,NA,03/26,NA,NA,03/16,03/26,03/26,03/26,03/25,03/23,03/25,03/13,03/13,03/26,03/26,03/26,03/26,NA,NA,03/26,03/26,nyt,03/26,keystone_cpv
+Colorado,Eagle,08,08037,county,03/18,03/18,03/12,NA,NA,NA,03/16,NA,NA,03/16,03/24,03/12,NA,NA,NA,NA,NA,NA,03/12,03/16,05/01,NA,NA,NA,05/01,03/24,keystone_sip,03/18,keystone_cpv
+Colorado,El Paso,08,08041,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/26,03/26,03/26,03/13,03/16,03/25,03/23,03/25,NA,04/04,NA,03/25,03/26,crwd_lockdown,03/26,crwd_business
+Colorado,Gunnison,08,08051,county,03/16,03/16,03/13,NA,NA,NA,03/16,NA,03/16,03/16,03/26,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,keystone_sip,03/16,keystone_cpv
+Colorado,Jefferson,08,08059,county,03/19,03/24,NA,NA,NA,NA,03/24,NA,03/24,03/16,03/24,03/18,03/26,03/26,03/16,03/26,03/18,03/16,NA,NA,NA,NA,NA,NA,NA,03/26,nyt,03/19,keystone_cpv
+Colorado,Larimer,08,08069,county,03/17,NA,03/17,NA,03/15,NA,03/19,NA,03/25,NA,03/25,03/25,NA,03/26,03/23,03/26,03/19,03/23,03/15,NA,03/25,03/25,NA,NA,03/25,03/25,keystone_sip,03/17,keystone_cpv
+Colorado,Weld,08,08123,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,NA,03/12,NA,NA,NA,NA,NA,NA,03/25,03/18,03/25,03/25,04/24,NA,03/19,03/25,hikma_shelter,03/19,hikma_work
+Colorado,NA,08,NA,state,03/19,03/19,NA,NA,NA,NA,03/19,NA,NA,03/23,04/02,03/19,03/26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,nyt,03/19,keystone_cpv
+Connecticut,Fairfield,09,09001,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/13,03/20,03/15,03/09,03/10,03/13,03/21,NA,NA,NA,03/21,03/20,crwd_lockdown,03/23,crwd_business
+Connecticut,Hartford,09,09003,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/15,03/24,03/16,03/17,03/16,03/16,03/16,NA,04/11,NA,03/16,03/24,crwd_lockdown,03/22,crwd_business
+Connecticut,Middlesex,09,09007,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/11,03/23,03/14,03/12,03/23,03/14,03/23,NA,NA,NA,03/23,03/23,crwd_lockdown,03/23,crwd_business
+Connecticut,New Haven,09,09009,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/12,03/20,03/15,03/13,03/19,03/12,03/23,03/23,03/24,NA,03/23,03/20,crwd_lockdown,03/23,crwd_business
+Connecticut,NA,09,NA,state,03/16,03/26,03/16,NA,03/12,NA,03/23,NA,03/16,03/15,03/20,03/16,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,nyt,03/16,keystone_cpv
+Delaware,Kent,10,10001,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,03/15,03/16,NA,03/16,NA,NA,NA,NA,NA,03/24,crwd_lockdown,03/24,crwd_business
+Delaware,New Castle,10,10003,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/24,04/07,03/23,NA,03/24,03/24,hikma_shelter,03/24,hikma_work
+Delaware,Sussex,10,10005,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/13,03/24,03/30,03/23,NA,03/24,03/24,hikma_shelter,03/24,hikma_work
+Delaware,NA,10,NA,state,03/16,03/22,03/18,NA,NA,NA,03/24,NA,NA,03/23,03/24,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,nyt,03/16,keystone_cpv
+District of Columbia,District of Columbia,11,11001,county,03/16,03/24,03/16,NA,03/13,NA,03/24,NA,03/24,03/16,03/30,03/24,04/01,03/24,03/11,03/30,03/11,03/09,03/24,03/16,03/24,NA,04/09,NA,03/24,04/01,nyt,03/16,keystone_cpv
+District of Columbia,NA,11,NA,state,03/16,03/25,03/16,NA,NA,NA,03/25,NA,03/25,03/16,04/01,03/13,04/01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,nyt,03/16,keystone_cpv
+Florida,Alachua,12,12001,county,03/17,03/23,03/17,NA,NA,NA,03/23,NA,03/23,03/16,03/24,03/24,03/24,NA,NA,NA,NA,NA,04/03,03/13,04/03,04/03,03/27,NA,NA,03/24,nyt,03/17,keystone_cpv
+Florida,Broward,12,12011,county,03/23,NA,NA,NA,NA,NA,03/23,NA,NA,03/16,NA,NA,03/27,03/24,03/14,03/27,NA,03/16,03/20,03/16,03/20,NA,03/21,NA,03/20,03/27,nyt,03/23,keystone_cpv
+Florida,Collier,12,12021,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/04,03/17,04/03,03/16,03/13,04/01,03/16,04/01,04/01,NA,NA,04/01,04/03,crwd_lockdown,04/04,crwd_business
+Florida,Duval,12,12031,county,04/03,NA,NA,NA,NA,NA,04/03,NA,NA,03/16,04/03,NA,NA,03/16,03/17,04/02,03/15,03/19,04/01,03/23,04/01,NA,04/02,NA,04/01,04/03,keystone_sip,04/03,keystone_cpv
+Florida,Escambia,12,12033,county,NA,NA,03/16,NA,03/16,NA,NA,NA,NA,03/16,NA,03/17,NA,NA,NA,NA,NA,NA,03/16,03/23,04/01,NA,03/23,NA,NA,04/01,hikma_shelter,04/01,effective_date_sip
+Florida,Hillsborough,12,12057,county,03/20,03/20,NA,NA,NA,NA,03/27,NA,03/20,03/20,03/27,03/20,03/27,03/27,04/16,NA,04/17,03/20,04/01,03/16,04/01,03/30,04/08,04/01,NA,03/27,nyt,03/20,keystone_cpv
+Florida,Lake,12,12069,county,NA,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,NA,NA,NA,NA,NA,NA,03/12,03/13,04/03,NA,03/23,03/22,04/03,04/03,hikma_shelter,04/03,hikma_work
+Florida,Lee,12,12071,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,04/02,03/14,04/02,NA,03/26,03/26,04/02,04/02,hikma_shelter,04/02,hikma_work
+Florida,Manatee,12,12081,county,03/20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,NA,04/29,NA,04/03,04/03,hikma_shelter,03/20,keystone_cpv
+Florida,Miami-Dade,12,12086,county,NA,03/24,NA,NA,NA,NA,03/12,NA,NA,NA,NA,NA,03/24,03/19,03/13,04/01,NA,03/16,03/24,03/31,03/26,04/09,03/19,NA,03/19,03/24,nyt,03/19,crwd_business
+Florida,Orange,12,12095,county,03/26,NA,NA,NA,NA,NA,03/26,NA,NA,NA,03/26,03/26,03/26,03/26,03/16,04/03,03/15,03/13,04/03,03/17,04/03,NA,04/11,NA,04/03,03/26,nyt,03/26,keystone_cpv
+Florida,Osceola,12,12097,county,03/26,NA,NA,NA,NA,NA,03/26,NA,NA,NA,03/26,03/26,03/26,NA,NA,NA,NA,NA,05/04,03/16,NA,NA,03/17,NA,03/23,03/26,nyt,03/26,keystone_cpv
+Florida,Palm Beach,12,12099,county,03/20,03/20,NA,NA,NA,NA,03/20,NA,NA,03/16,NA,NA,03/30,03/20,03/15,03/28,03/13,03/17,NA,NA,03/25,NA,NA,NA,03/23,03/30,nyt,03/20,keystone_cpv
+Florida,Pasco,12,12101,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/14,04/03,01/01,03/17,NA,04/03,04/03,hikma_shelter,04/03,hikma_work
+Florida,Pinellas,12,12103,county,NA,03/18,NA,NA,NA,NA,03/26,NA,NA,03/16,03/26,03/26,03/26,03/26,04/04,03/20,04/10,03/13,03/25,03/16,03/25,03/31,04/10,NA,03/25,03/26,nyt,03/26,crwd_business
+Florida,Polk,12,12105,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,04/01,03/17,04/01,NA,04/03,NA,04/01,04/01,hikma_shelter,04/01,hikma_work
+Florida,Sarasota,12,12115,county,NA,NA,NA,NA,03/12,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/17,NA,NA,NA,NA,04/03,NA,NA,04/03,hikma_work
+Florida,Seminole,12,12117,county,NA,03/30,NA,NA,NA,NA,NA,NA,NA,03/16,NA,03/30,NA,03/17,03/13,NA,NA,03/17,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,crwd_business
+Florida,St. Johns,12,12109,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,04/03,03/13,04/03,03/19,03/16,04/03,03/30,04/03,NA,04/09,NA,04/03,04/03,crwd_lockdown,04/03,crwd_business
+Florida,Volusia,12,12127,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/17,04/01,04/03,04/10,NA,04/01,04/01,hikma_shelter,04/01,hikma_work
+Florida,NA,12,NA,state,03/20,04/03,NA,NA,NA,NA,04/03,NA,NA,03/17,04/03,03/20,04/03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,nyt,03/20,keystone_cpv
+Georgia,Bartow,13,13015,county,03/20,NA,NA,NA,NA,NA,03/13,NA,NA,NA,04/03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,keystone_sip,03/20,keystone_cpv
+Georgia,Carroll,13,13045,county,03/22,03/23,NA,NA,NA,NA,03/17,NA,NA,03/16,03/25,03/23,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,nyt,03/22,keystone_cpv
+Georgia,Cherokee,13,13057,county,NA,03/25,NA,NA,NA,NA,NA,NA,NA,03/16,03/25,03/25,NA,NA,NA,NA,NA,NA,03/25,03/13,03/25,03/25,03/20,NA,03/25,03/25,keystone_sip,03/25,hikma_work
+Georgia,Clayton,13,13063,county,04/01,04/01,NA,NA,NA,NA,04/01,NA,04/01,03/16,04/01,04/01,03/30,NA,NA,NA,NA,NA,03/23,03/26,03/23,NA,NA,NA,03/23,03/30,nyt,04/01,keystone_cpv
+Georgia,Cobb,13,13067,county,03/25,03/25,NA,NA,NA,NA,NA,NA,NA,03/16,03/25,03/16,03/30,03/24,03/16,03/24,03/14,03/16,04/03,03/13,04/03,NA,NA,NA,04/03,03/30,nyt,03/25,keystone_cpv
+Georgia,DeKalb,13,13089,county,03/23,03/23,NA,NA,NA,NA,03/28,NA,NA,03/16,03/28,03/23,03/24,03/28,03/12,03/28,03/30,03/18,03/27,03/16,03/27,NA,NA,NA,03/27,03/24,nyt,03/23,keystone_cpv
+Georgia,Dougherty,13,13095,county,03/23,03/23,NA,NA,NA,NA,03/23,NA,NA,03/16,03/23,03/14,03/21,NA,NA,NA,NA,NA,03/22,03/17,03/22,04/01,04/20,NA,NA,03/21,nyt,03/23,keystone_cpv
+Georgia,Douglas,13,13097,county,03/23,03/23,NA,NA,NA,NA,03/25,NA,03/23,NA,03/25,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,keystone_sip,03/23,keystone_cpv
+Georgia,Fulton,13,13121,county,03/24,03/24,NA,NA,NA,NA,03/31,NA,NA,03/13,03/31,03/24,03/24,03/20,03/16,04/03,03/13,03/16,03/19,04/02,04/01,04/01,NA,NA,04/06,03/24,nyt,03/24,keystone_cpv
+Georgia,Gwinnett,13,13135,county,03/23,03/23,NA,NA,NA,NA,03/23,NA,NA,03/16,03/23,03/23,03/28,NA,NA,NA,NA,NA,03/06,03/16,03/16,NA,NA,NA,NA,03/28,nyt,03/23,keystone_cpv
+Georgia,Hall,13,13139,county,03/16,NA,NA,NA,NA,NA,03/20,NA,03/16,03/16,03/27,03/19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,keystone_sip,03/16,keystone_cpv
+Georgia,Henry,13,13151,county,03/17,03/17,NA,NA,NA,NA,03/17,NA,03/17,03/16,03/17,03/17,NA,NA,NA,NA,NA,NA,03/23,03/18,04/02,NA,NA,NA,04/02,03/17,keystone_sip,03/17,keystone_cpv
+Georgia,NA,13,NA,state,03/24,03/24,NA,NA,NA,NA,04/03,NA,NA,03/18,04/03,03/24,04/03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,nyt,03/24,keystone_cpv
+Guam,NA,66,NA,state,03/20,NA,03/17,NA,NA,NA,03/20,NA,NA,03/17,NA,03/17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,keystone_cpv
+Hawaii,Honolulu,15,15003,county,03/20,03/23,03/20,NA,NA,NA,03/23,NA,03/23,03/16,03/23,03/23,NA,03/19,NA,03/24,03/16,03/19,03/24,03/24,03/23,03/23,03/27,NA,03/23,03/23,keystone_sip,03/20,keystone_cpv
+Hawaii,NA,15,NA,state,03/17,03/17,03/15,NA,NA,NA,03/25,NA,03/17,03/19,03/25,03/17,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,nyt,03/17,keystone_cpv
+Idaho,Ada,16,16001,county,NA,NA,NA,NA,03/12,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/16,03/26,03/13,03/23,NA,NA,NA,NA,NA,NA,NA,03/26,crwd_lockdown,03/25,crwd_business
+Idaho,Blaine,16,16013,county,03/20,03/20,NA,NA,NA,NA,03/20,NA,NA,03/27,03/20,03/20,03/20,03/17,03/14,03/20,03/20,03/12,NA,NA,NA,NA,NA,NA,NA,03/20,nyt,03/20,keystone_cpv
+Idaho,Canyon,16,16027,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/23,03/25,03/25,03/16,03/25,03/23,03/25,NA,NA,NA,03/25,03/25,crwd_lockdown,03/25,crwd_business
+Idaho,NA,16,NA,state,03/25,03/25,NA,NA,NA,NA,03/25,NA,03/25,03/23,03/25,03/25,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,nyt,03/25,keystone_cpv
+Illinois,Cook,17,17031,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/09,03/21,03/21,03/16,04/01,03/17,04/01,NA,NA,NA,03/20,03/21,crwd_lockdown,03/21,crwd_business
+Illinois,DuPage,17,17043,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/07,03/21,03/19,03/14,03/20,03/29,03/20,NA,NA,NA,03/16,03/21,crwd_lockdown,03/21,crwd_business
+Illinois,Kane,17,17089,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/14,03/21,03/18,03/13,03/17,03/17,03/21,NA,04/20,NA,03/21,03/21,crwd_lockdown,03/21,crwd_business
+Illinois,Lake,17,17097,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/17,03/21,NA,03/16,03/31,03/16,03/31,NA,NA,NA,03/31,03/21,crwd_lockdown,03/21,crwd_business
+Illinois,McHenry,17,17111,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/14,03/21,03/13,03/14,03/20,03/16,03/20,NA,NA,NA,03/16,03/21,crwd_lockdown,03/21,crwd_business
+Illinois,Will,17,17197,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/31,NA,NA,NA,03/31,03/31,hikma_shelter,03/31,hikma_work
+Illinois,NA,17,NA,state,03/16,03/21,03/16,NA,NA,NA,03/21,NA,03/16,03/17,03/21,03/13,03/21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,nyt,03/16,keystone_cpv
+Indiana,Hamilton,18,18057,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/24,03/23,03/25,03/15,03/16,03/23,03/16,03/23,NA,04/03,NA,03/23,03/25,crwd_lockdown,03/24,crwd_business
+Indiana,Johnson,18,18081,county,04/02,NA,NA,NA,NA,NA,04/02,NA,NA,03/16,04/02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/02,keystone_sip,04/02,keystone_cpv
+Indiana,Lake,18,18089,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,03/25,04/16,04/08,NA,03/25,03/25,hikma_shelter,03/25,hikma_work
+Indiana,Madison,18,18095,county,03/23,03/20,NA,NA,NA,NA,03/23,NA,03/23,NA,03/23,03/20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,keystone_sip,03/23,keystone_cpv
+Indiana,Marion,18,18097,county,03/17,NA,03/17,NA,NA,NA,NA,NA,03/17,03/16,03/24,NA,NA,03/24,03/16,03/24,03/23,03/16,03/23,02/28,02/28,NA,NA,NA,NA,03/24,keystone_sip,03/17,keystone_cpv
+Indiana,St. Joseph,18,18141,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/07,03/25,03/18,03/13,03/12,03/18,03/19,NA,04/27,NA,03/19,03/25,crwd_lockdown,03/25,crwd_business
+Indiana,NA,18,NA,state,03/16,03/24,03/16,NA,NA,NA,03/23,NA,03/23,03/19,03/23,03/24,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,nyt,03/16,keystone_cpv
+Iowa,Johnson,19,19103,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/16,NA,03/15,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,crwd_business
+Iowa,Polk,19,19153,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/17,03/13,NA,04/12,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,crwd_business
+Iowa,NA,19,NA,state,03/17,03/17,NA,NA,NA,NA,03/17,NA,03/17,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,keystone_cpv
+Kansas,Johnson,20,20091,county,03/17,03/17,NA,NA,NA,NA,03/24,NA,NA,03/16,03/24,03/24,03/24,03/24,03/14,03/24,NA,03/17,NA,03/16,03/22,03/27,04/10,NA,NA,03/24,nyt,03/17,keystone_cpv
+Kansas,Sedgwick,20,20173,county,03/24,04/08,03/17,NA,NA,NA,03/24,NA,NA,03/17,03/25,03/24,03/25,03/25,03/14,03/25,03/15,03/17,03/13,03/17,03/24,NA,03/23,NA,03/24,03/25,nyt,03/24,keystone_cpv
+Kansas,Wyandotte,20,20209,county,03/16,03/16,NA,NA,NA,NA,03/23,NA,03/23,03/17,03/23,03/23,03/24,NA,NA,NA,NA,NA,03/21,03/17,03/21,04/21,04/03,NA,03/21,03/24,nyt,03/16,keystone_cpv
+Kansas,NA,20,NA,state,03/30,03/24,03/17,NA,NA,NA,03/30,NA,04/07,03/17,03/30,03/24,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,nyt,03/30,keystone_cpv
+Kentucky,Fayette,21,21067,county,03/16,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,04/24,NA,03/23,NA,NA,03/16,keystone_cpv
+Kentucky,Jefferson,21,21111,county,NA,NA,NA,NA,NA,NA,NA,NA,04/07,03/16,NA,NA,NA,03/22,03/20,NA,03/19,03/15,03/12,03/16,03/12,NA,03/05,NA,03/12,03/12,hikma_shelter,03/22,crwd_business
+Kentucky,NA,21,NA,state,03/17,03/19,NA,NA,03/11,NA,03/17,NA,03/19,03/16,03/25,03/17,03/26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,nyt,03/17,keystone_cpv
+Louisiana,Ascension,22,22005,county,03/23,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/23,NA,03/20,NA,03/23,03/23,hikma_shelter,03/23,keystone_cpv
+Louisiana,Bossier,22,22015,county,03/17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/23,NA,03/19,NA,03/23,03/23,hikma_shelter,03/17,keystone_cpv
+Louisiana,Caddo,22,22017,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/13,03/23,NA,04/25,NA,03/23,03/23,hikma_shelter,03/23,hikma_work
+Louisiana,Calcasieu,22,22019,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/16,03/23,NA,03/26,NA,03/23,03/23,hikma_shelter,03/23,hikma_work
+Louisiana,East Baton Rouge,22,22033,county,03/17,03/23,NA,NA,NA,NA,03/23,NA,NA,03/16,03/23,NA,NA,NA,NA,NA,NA,NA,03/23,03/16,03/23,NA,NA,NA,03/23,03/23,keystone_sip,03/17,keystone_cpv
+Louisiana,Jefferson,22,22051,county,NA,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/16,03/23,04/02,03/25,NA,03/23,03/23,hikma_shelter,03/23,hikma_work
+Louisiana,Lafayette,22,22055,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,NA,NA,NA,NA,NA,NA,NA,03/23,03/16,03/22,03/22,04/09,NA,03/23,03/22,keystone_sip,03/23,hikma_work
+Louisiana,Lafourche,22,22057,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/23,NA,04/28,NA,03/23,03/23,hikma_shelter,03/23,hikma_work
+Louisiana,Orleans,22,22071,county,03/17,03/17,NA,NA,NA,NA,03/20,NA,03/20,03/16,03/20,03/20,03/20,03/22,03/16,03/22,03/22,03/13,03/16,03/16,03/16,03/16,03/19,NA,03/20,03/20,nyt,03/17,keystone_cpv
+Louisiana,Ouachita,22,22073,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/23,NA,03/17,NA,03/23,03/23,hikma_shelter,03/23,hikma_work
+Louisiana,Rapides,22,22079,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/23,NA,03/26,NA,03/23,03/23,hikma_shelter,03/23,hikma_work
+Louisiana,St. Charles,22,22089,county,03/23,NA,03/17,NA,NA,NA,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,keystone_cpv
+Louisiana,St. James,22,22093,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,keystone_sip,04/01,effective_date_sip
+Louisiana,St. Tammany,22,22103,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/22,03/23,03/23,04/04,03/13,03/16,03/23,04/04,03/12,NA,03/23,03/23,crwd_lockdown,03/22,crwd_business
+Louisiana,Tangipahoa,22,22105,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/23,NA,03/13,NA,03/23,03/23,hikma_shelter,03/23,hikma_work
+Louisiana,Terrebonne,22,22109,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/23,NA,03/31,NA,03/23,03/23,hikma_shelter,03/23,hikma_work
+Louisiana,NA,22,NA,state,03/16,03/23,03/16,NA,03/13,NA,03/23,NA,03/23,03/13,03/23,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,nyt,03/16,keystone_cpv
+Maine,Cumberland,23,23005,county,03/16,NA,NA,NA,NA,NA,04/01,NA,NA,NA,04/01,NA,03/25,03/24,03/14,04/02,03/13,03/14,03/18,03/15,04/02,NA,NA,NA,03/25,03/25,nyt,03/16,keystone_cpv
+Maine,York,23,23031,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/02,03/13,04/02,NA,03/12,04/02,04/02,04/02,hikma_shelter,04/02,hikma_work
+Maine,NA,23,NA,state,03/18,03/18,NA,NA,NA,NA,03/25,NA,03/18,04/02,04/02,03/25,04/02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/02,nyt,03/18,keystone_cpv
+Maryland,Anne Arundel,24,24003,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/25,03/25,04/03,03/25,NA,NA,NA,NA,NA,NA,NA,03/25,crwd_lockdown,03/23,crwd_business
+Maryland,Baltimore,24,24005,county,03/16,NA,03/18,NA,03/12,NA,03/23,NA,NA,03/16,NA,NA,NA,03/19,03/10,03/23,03/13,03/16,03/30,03/16,03/30,03/30,03/13,NA,04/09,03/23,crwd_lockdown,03/16,keystone_cpv
+Maryland,Baltimore City,24,24510,county,03/19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/11,03/30,03/16,03/16,03/12,03/16,03/30,03/30,04/09,NA,03/23,03/30,crwd_lockdown,03/19,keystone_cpv
+Maryland,Carroll,24,24013,county,03/16,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,04/06,NA,03/30,03/17,03/30,03/13,03/16,03/12,03/14,03/30,03/30,03/12,NA,03/30,03/30,crwd_lockdown,03/16,keystone_cpv
+Maryland,Charles,24,24017,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/16,03/30,03/29,NA,NA,03/30,03/30,hikma_shelter,03/30,hikma_work
+Maryland,Frederick,24,24021,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/12,03/30,03/12,03/12,NA,NA,NA,NA,NA,NA,NA,03/30,crwd_lockdown,03/23,crwd_business
+Maryland,Howard,24,24027,county,03/15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/15,03/30,03/12,03/13,03/13,03/16,03/23,03/23,NA,NA,03/23,03/30,crwd_lockdown,03/15,keystone_cpv
+Maryland,Montgomery,24,24031,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/23,03/11,03/30,03/12,03/14,03/12,03/16,03/30,03/30,NA,NA,03/23,03/30,crwd_lockdown,03/23,crwd_business
+Maryland,Prince George's,24,24033,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/13,03/30,03/16,03/16,03/23,03/20,03/23,03/23,03/20,NA,03/23,03/30,crwd_lockdown,03/23,crwd_business
+Maryland,NA,24,NA,state,03/16,03/19,03/16,NA,NA,NA,03/23,NA,03/19,03/16,03/30,NA,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,nyt,03/16,keystone_cpv
+Massachusetts,Barnstable,25,25001,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/15,03/22,NA,03/15,NA,NA,NA,NA,NA,NA,NA,03/22,crwd_lockdown,03/17,crwd_business
+Massachusetts,Berkshire,25,25003,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/23,03/17,03/24,NA,03/17,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_lockdown,03/23,crwd_business
+Massachusetts,Bristol,25,25005,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/17,03/24,NA,03/13,03/17,03/17,03/24,NA,NA,NA,03/24,03/24,crwd_lockdown,03/24,crwd_business
+Massachusetts,Essex,25,25009,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/17,03/24,NA,03/13,03/10,03/13,03/23,04/10,04/01,04/10,03/10,03/24,crwd_lockdown,03/24,crwd_business
+Massachusetts,Franklin,25,25011,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/17,03/24,NA,03/13,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_lockdown,03/24,crwd_business
+Massachusetts,Hampden,25,25013,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/24,03/17,03/24,NA,03/13,03/23,03/25,03/23,03/23,04/28,NA,03/23,03/24,crwd_lockdown,03/24,crwd_business
+Massachusetts,Hampshire,25,25015,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,NA,NA,NA,03/24,03/17,03/24,NA,03/16,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_lockdown,03/24,crwd_business
+Massachusetts,Middlesex,25,25017,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/13,03/24,03/12,03/17,03/15,03/13,03/15,NA,04/10,NA,03/17,03/24,crwd_lockdown,03/23,crwd_business
+Massachusetts,Norfolk,25,25021,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/24,03/13,03/24,NA,03/17,NA,03/15,03/24,NA,03/17,NA,03/24,03/24,crwd_lockdown,03/24,crwd_business
+Massachusetts,Plymouth,25,25023,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/24,03/16,03/24,NA,03/17,03/24,03/16,03/24,NA,NA,NA,03/24,03/24,crwd_lockdown,03/24,crwd_business
+Massachusetts,Suffolk,25,25025,county,NA,03/24,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/24,03/12,03/24,NA,03/16,03/15,03/17,03/23,NA,02/28,04/10,03/24,03/24,crwd_lockdown,03/24,crwd_business
+Massachusetts,Worcester,25,25027,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,NA,NA,NA,03/24,03/11,03/24,NA,03/16,03/21,03/13,03/21,NA,03/26,NA,03/21,03/24,crwd_lockdown,03/24,crwd_business
+Massachusetts,NA,25,NA,state,03/23,03/24,03/17,03/17,03/13,NA,03/24,NA,NA,03/17,03/24,03/13,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,nyt,03/23,keystone_cpv
+Michigan,Genesee,26,26049,county,03/23,NA,03/16,NA,NA,NA,03/23,NA,NA,03/16,03/23,03/16,NA,NA,NA,NA,NA,NA,03/26,03/16,03/26,NA,NA,NA,03/26,03/23,keystone_sip,03/23,keystone_cpv
+Michigan,Ingham,26,26065,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,03/15,03/16,03/23,03/16,03/23,NA,04/14,NA,03/23,03/24,crwd_lockdown,03/24,crwd_business
+Michigan,Kent,26,26081,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/19,03/24,03/15,03/16,03/11,03/16,03/23,03/23,04/21,NA,03/23,03/24,crwd_lockdown,03/24,crwd_business
+Michigan,Macomb,26,26099,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/12,03/24,04/02,03/27,NA,03/24,03/24,hikma_shelter,03/24,hikma_work
+Michigan,Oakland,26,26125,county,NA,NA,NA,NA,NA,NA,03/23,NA,03/23,03/23,03/23,03/23,NA,03/24,03/12,03/24,03/15,03/16,NA,NA,NA,NA,NA,NA,03/16,03/23,keystone_sip,03/24,crwd_business
+Michigan,Washtenaw,26,26161,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/12,03/24,03/22,03/12,NA,03/13,04/01,NA,NA,NA,04/01,03/24,crwd_lockdown,03/24,crwd_business
+Michigan,Wayne,26,26163,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/11,03/24,03/14,03/13,NA,03/16,03/24,04/02,03/27,NA,03/12,03/24,crwd_lockdown,03/23,crwd_business
+Michigan,NA,26,NA,state,03/16,NA,03/17,NA,03/13,NA,03/22,NA,NA,03/16,03/24,03/25,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,nyt,03/16,keystone_cpv
+Minnesota,Hennepin,27,27053,county,03/26,NA,NA,NA,NA,NA,03/26,NA,NA,NA,NA,03/26,NA,03/27,03/14,03/27,03/15,03/17,NA,NA,03/17,NA,NA,NA,03/17,03/27,crwd_lockdown,03/26,keystone_cpv
+Minnesota,Olmsted,27,27109,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/16,03/27,03/15,03/18,03/16,03/18,03/16,03/16,03/20,NA,03/16,03/27,crwd_lockdown,03/27,crwd_business
+Minnesota,Ramsey,27,27123,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/13,03/27,03/14,03/18,03/13,03/18,03/27,04/06,03/06,NA,03/27,03/27,crwd_lockdown,03/27,crwd_business
+Minnesota,NA,27,NA,state,03/27,NA,NA,NA,NA,NA,03/27,NA,NA,03/18,03/27,03/27,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,nyt,03/27,keystone_cpv
+Mississippi,DeSoto,28,28033,county,04/08,03/22,NA,NA,NA,NA,04/08,NA,NA,03/22,03/22,03/22,NA,04/03,03/25,03/22,03/18,04/13,04/03,03/16,04/03,04/03,NA,NA,04/03,03/22,keystone_sip,04/08,keystone_cpv
+Mississippi,Hinds,28,28049,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,04/03,04/03,03/23,NA,03/17,04/03,hikma_shelter,03/17,hikma_work
+Mississippi,Jackson,28,28059,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/16,04/03,NA,NA,NA,05/04,04/03,hikma_shelter,05/04,hikma_work
+Mississippi,NA,28,NA,state,03/20,03/24,NA,NA,NA,NA,03/16,NA,NA,03/16,03/31,03/31,04/03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,nyt,03/20,keystone_cpv
+Missouri,Jackson,29,29095,county,03/24,03/24,NA,NA,NA,NA,03/24,NA,03/24,NA,03/24,03/24,03/24,03/24,03/12,03/24,03/24,03/14,03/24,03/18,03/24,NA,NA,NA,03/24,03/24,nyt,03/24,keystone_cpv
+Missouri,St. Charles,29,29183,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/06,03/23,03/24,03/20,03/27,03/13,03/30,03/23,NA,NA,03/25,NA,03/24,crwd_lockdown,04/06,crwd_business
+Missouri,St. Louis,29,29189,county,03/23,03/19,03/15,NA,03/13,NA,03/23,NA,03/21,03/18,03/23,03/13,03/23,03/23,03/08,03/23,03/16,03/18,03/16,03/16,03/23,03/23,03/25,NA,03/23,03/23,nyt,03/23,keystone_cpv
+Missouri,St. Louis City,29,29510,county,03/19,03/20,03/16,NA,*3/13,NA,03/23,NA,03/20,03/18,03/23,03/20,NA,03/21,03/18,04/06,04/06,03/18,03/18,03/21,03/21,NA,03/31,NA,03/21,03/23,keystone_sip,03/19,keystone_cpv
+Missouri,NA,29,NA,state,03/23,03/23,NA,NA,NA,NA,04/06,NA,NA,03/23,04/06,03/23,04/06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/06,nyt,03/23,keystone_cpv
+Montana,Gallatin,30,30031,county,03/16,03/26,NA,NA,NA,NA,03/26,NA,03/26,NA,NA,03/26,NA,03/16,03/23,03/26,03/26,03/14,NA,NA,NA,NA,NA,NA,NA,03/26,crwd_lockdown,03/16,keystone_cpv
+Montana,NA,30,NA,state,03/24,NA,NA,NA,NA,NA,03/26,NA,NA,03/15,03/26,NA,03/28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,nyt,03/24,keystone_cpv
+Nebraska,Douglas,31,31055,county,03/18,03/18,NA,NA,NA,NA,NA,NA,NA,03/16,NA,03/18,NA,03/27,03/09,NA,03/16,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,keystone_cpv
+Nebraska,NA,31,NA,state,03/16,04/03,03/16,NA,NA,NA,04/03,NA,04/03,04/03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,keystone_cpv
+Nevada,Clark,32,32003,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/18,04/01,03/12,03/15,03/18,03/15,03/18,NA,03/23,NA,03/18,04/01,crwd_lockdown,03/20,crwd_business
+Nevada,Washoe,32,32031,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/01,03/18,03/31,04/08,03/15,NA,NA,NA,NA,NA,NA,NA,03/31,crwd_lockdown,03/01,crwd_business
+Nevada,NA,32,NA,state,03/20,03/24,NA,NA,NA,NA,03/20,NA,03/24,03/16,03/31,03/20,04/01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,nyt,03/20,keystone_cpv
+New Hampshire,Hillsborough,33,33011,county,NA,NA,NA,NA,NA,NA,03/20,NA,NA,NA,NA,NA,NA,03/26,03/16,03/26,03/15,03/16,NA,NA,NA,NA,NA,NA,NA,03/26,crwd_lockdown,03/26,crwd_business
+New Hampshire,Rockingham,33,33015,county,NA,NA,NA,NA,NA,NA,03/20,NA,NA,NA,NA,NA,NA,03/26,03/14,03/26,03/19,03/16,03/16,03/16,03/16,NA,04/01,NA,03/26,03/26,crwd_lockdown,03/26,crwd_business
+New Hampshire,NA,33,NA,state,03/16,03/23,03/16,NA,NA,NA,03/27,NA,04/13,03/16,03/27,04/13,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,nyt,03/16,keystone_cpv
+New Jersey,Bergen,34,34003,county,03/17,NA,NA,NA,NA,NA,03/17,NA,NA,NA,NA,03/10,NA,03/21,03/16,03/17,03/12,03/09,04/13,03/17,NA,NA,03/22,NA,03/19,03/17,crwd_lockdown,03/17,keystone_cpv
+New Jersey,Burlington,34,34005,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/21,03/18,03/21,03/15,03/18,03/12,03/16,03/21,03/23,03/26,NA,03/21,03/21,crwd_lockdown,03/21,crwd_business
+New Jersey,Camden,34,34007,county,03/16,NA,NA,NA,NA,NA,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/16,03/21,04/05,NA,NA,03/21,03/21,hikma_shelter,03/16,keystone_cpv
+New Jersey,Essex,34,34013,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/18,03/21,03/26,03/18,03/21,03/16,03/21,03/31,03/26,NA,03/21,03/21,crwd_lockdown,03/21,crwd_business
+New Jersey,Gloucester,34,34015,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/18,03/21,03/23,04/08,NA,03/21,03/21,hikma_shelter,03/21,hikma_work
+New Jersey,Hudson,34,34017,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/21,03/10,03/19,03/18,03/18,03/12,03/18,03/21,03/21,03/24,NA,03/21,03/19,crwd_lockdown,03/21,crwd_business
+New Jersey,Mercer,34,34021,county,03/18,NA,NA,NA,03/12,NA,03/20,NA,NA,03/16,NA,NA,NA,03/20,03/10,03/21,03/13,03/11,NA,03/25,NA,NA,NA,NA,NA,03/21,crwd_lockdown,03/18,keystone_cpv
+New Jersey,Middlesex,34,34023,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/10,03/21,03/13,03/12,03/20,03/18,03/18,03/18,04/12,NA,03/20,03/21,crwd_lockdown,03/16,crwd_business
+New Jersey,Monmouth,34,34025,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/10,03/21,03/21,03/14,03/16,03/18,03/21,03/21,NA,NA,03/21,03/21,crwd_lockdown,03/21,crwd_business
+New Jersey,Morris,34,34027,county,03/19,NA,NA,NA,NA,NA,03/17,NA,NA,NA,NA,03/19,NA,NA,NA,NA,NA,NA,03/21,03/18,03/21,03/21,03/30,NA,03/21,03/21,hikma_shelter,03/19,keystone_cpv
+New Jersey,Ocean,34,34029,county,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,03/21,03/18,03/21,03/23,03/30,NA,03/21,03/21,hikma_shelter,03/21,hikma_work
+New Jersey,Passaic,34,34031,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,NA,NA,NA,NA,NA,NA,NA,NA,04/07,03/16,03/21,03/21,03/25,NA,03/21,03/21,hikma_shelter,03/21,hikma_work
+New Jersey,Somerset,34,34035,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,03/21,03/10,03/21,03/13,03/12,03/19,03/15,03/19,03/19,NA,NA,03/19,03/21,crwd_lockdown,03/21,crwd_business
+New Jersey,Sussex,34,34037,county,03/21,NA,NA,NA,NA,NA,03/16,04/07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,keystone_cpv
+New Jersey,Union,34,34039,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/10,03/21,04/10,03/23,NA,03/13,03/21,hikma_shelter,03/13,hikma_work
+New Jersey,NA,34,NA,state,03/25,NA,03/18,NA,03/12,NA,03/21,NA,03/25,03/18,03/21,03/21,03/21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,nyt,03/25,keystone_cpv
+New Mexico,Bernalillo,35,35001,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/23,03/23,03/23,03/23,03/24,03/27,03/24,04/08,04/06,NA,NA,03/23,crwd_lockdown,03/23,crwd_business
+New Mexico,San Juan,35,35045,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/30,NA,03/24,03/19,hikma_shelter,03/24,hikma_work
+New Mexico,Sandoval,35,35043,county,03/23,NA,NA,NA,NA,NA,03/23,NA,NA,03/16,03/23,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/23,NA,03/24,03/23,keystone_sip,03/23,keystone_cpv
+New Mexico,NA,35,NA,state,03/19,03/19,03/16,NA,NA,NA,03/23,NA,03/23,03/16,03/23,03/23,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,nyt,03/19,keystone_cpv
+New York,Albany,36,36001,county,03/17,NA,NA,NA,NA,NA,03/17,NA,NA,NA,NA,NA,NA,03/22,03/13,03/22,03/22,03/14,03/13,03/18,03/20,NA,04/06,NA,03/20,03/22,crwd_lockdown,03/17,keystone_cpv
+New York,Dutchess,36,36027,county,NA,NA,NA,03/18,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/23,03/14,03/14,03/14,03/13,03/13,03/16,03/20,NA,03/23,03/24,03/13,03/14,crwd_lockdown,03/23,crwd_business
+New York,Erie,36,36029,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/15,03/17,03/31,03/15,04/20,04/20,03/20,NA,NA,NA,03/20,03/17,crwd_lockdown,04/03,crwd_business
+New York,Monroe,36,36055,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/15,03/14,03/16,03/14,04/11,03/16,04/11,NA,04/08,NA,04/11,03/14,crwd_lockdown,03/18,crwd_business
+New York,Nassau,36,36059,county,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/16,NA,NA,NA,03/22,03/12,03/20,03/12,03/16,03/16,03/16,NA,NA,NA,NA,03/16,03/20,crwd_lockdown,03/22,crwd_business
+New York,New York City,36,36061,county,03/16,NA,NA,NA,NA,NA,03/22,NA,03/27,03/16,03/22,03/27,NA,03/20,03/11,03/23,03/12,03/23,03/20,03/17,03/20,03/20,03/11,04/10,03/20,03/22,keystone_sip,03/16,keystone_cpv
+New York,Niagara,36,36063,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/15,03/17,04/06,NA,NA,03/23,03/17,hikma_shelter,03/23,hikma_work
+New York,Onondaga,36,36067,county,03/18,NA,NA,NA,NA,NA,NA,NA,NA,03/20,NA,NA,NA,03/22,03/15,03/20,03/20,03/14,NA,NA,NA,NA,NA,NA,NA,03/20,crwd_lockdown,03/18,keystone_cpv
+New York,Orange,36,36071,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/11,03/22,03/14,03/13,03/20,03/16,03/20,03/20,NA,NA,03/22,03/22,crwd_lockdown,03/16,crwd_business
+New York,Rockland,36,36087,county,NA,04/03,NA,NA,NA,NA,NA,NA,04/03,03/17,NA,04/03,NA,NA,NA,NA,NA,NA,04/06,03/16,NA,04/06,03/17,NA,03/15,NA,NA,03/15,hikma_work
+New York,Saratoga,36,36091,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/14,03/20,03/31,NA,NA,03/22,03/20,hikma_shelter,03/22,hikma_work
+New York,Suffolk,36,36103,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/22,03/14,03/22,03/13,03/13,NA,03/16,NA,NA,NA,NA,03/22,03/22,crwd_lockdown,03/22,crwd_business
+New York,Tompkins,36,36109,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/22,03/13,03/22,03/20,03/13,NA,NA,NA,NA,NA,NA,NA,03/22,crwd_lockdown,03/22,crwd_business
+New York,Ulster,36,36111,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/22,NA,03/20,03/14,03/13,NA,NA,NA,NA,NA,NA,NA,03/20,crwd_lockdown,03/22,crwd_business
+New York,Westchester,36,36119,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/11,03/20,03/03,03/23,NA,03/14,NA,NA,NA,NA,NA,03/20,crwd_lockdown,03/20,crwd_business
+New York,NA,36,NA,state,03/22,03/22,NA,NA,03/12,NA,03/22,NA,NA,03/18,NA,03/22,03/22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,nyt,03/22,keystone_cpv
+North Carolina,Durham,37,37063,county,03/28,03/28,NA,NA,NA,NA,03/28,NA,03/28,03/28,03/28,NA,03/26,03/28,03/07,03/28,03/30,03/14,03/16,03/16,03/25,03/25,04/14,NA,03/25,03/26,nyt,03/28,keystone_cpv
+North Carolina,Forsyth,37,37067,county,03/27,03/27,NA,NA,NA,NA,03/27,NA,03/27,NA,03/27,03/27,03/27,03/30,03/16,03/30,03/12,03/16,03/25,03/10,03/25,03/25,NA,NA,03/25,03/27,nyt,03/27,keystone_cpv
+North Carolina,Guilford,37,37081,county,03/25,03/25,NA,NA,NA,NA,03/25,NA,03/25,NA,03/30,03/30,03/27,03/27,03/27,03/30,03/17,03/16,04/10,03/16,04/10,NA,03/18,NA,04/10,03/27,nyt,03/25,keystone_cpv
+North Carolina,Mecklenburg,37,37119,county,03/21,03/24,03/16,NA,NA,NA,03/24,NA,03/24,03/16,03/24,03/24,03/26,03/17,03/23,03/26,03/15,03/16,03/16,03/16,03/26,03/26,03/17,NA,03/26,03/26,nyt,03/21,keystone_cpv
+North Carolina,Wake,37,37183,county,03/27,03/27,03/22,NA,NA,NA,03/27,NA,NA,03/17,03/27,NA,03/27,03/27,03/11,03/30,03/15,03/16,03/27,03/15,03/27,NA,NA,NA,03/27,03/27,nyt,03/27,keystone_cpv
+North Carolina,NA,37,NA,state,03/17,03/30,03/14,NA,NA,NA,03/30,NA,03/30,03/16,03/30,03/14,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,nyt,03/17,keystone_cpv
+North Dakota,NA,38,NA,state,03/20,NA,NA,NA,NA,NA,03/20,NA,NA,03/15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,keystone_cpv
+Ohio,Cuyahoga,39,39035,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/16,03/23,03/28,03/15,NA,NA,NA,NA,NA,04/12,NA,03/23,crwd_lockdown,03/18,crwd_business
+Ohio,Franklin,39,39049,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/09,03/24,03/16,03/16,03/12,03/12,03/23,03/23,NA,NA,03/22,03/24,crwd_lockdown,03/22,crwd_business
+Ohio,Hamilton,39,39061,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/10,03/24,03/14,03/16,03/27,03/17,03/27,03/27,03/30,04/01,03/27,03/24,crwd_lockdown,03/24,crwd_business
+Ohio,Lorain,39,39093,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/03,03/30,03/22,03/24,03/14,NA,03/22,03/22,hikma_shelter,03/22,hikma_work
+Ohio,Lucas,39,39095,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/16,03/23,NA,NA,NA,03/23,03/23,hikma_shelter,03/23,hikma_work
+Ohio,Montgomery,39,39113,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/16,03/20,NA,03/17,NA,03/23,03/20,hikma_shelter,03/23,hikma_work
+Ohio,Portage,39,39133,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/17,03/23,NA,04/28,NA,03/24,03/23,hikma_shelter,03/24,hikma_work
+Ohio,Stark,39,39151,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/12,03/22,NA,NA,NA,03/22,03/22,hikma_shelter,03/22,hikma_work
+Ohio,Summit,39,39153,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/10,03/23,03/07,03/16,03/12,03/16,03/23,NA,04/22,NA,03/23,03/23,crwd_lockdown,03/23,crwd_business
+Ohio,Trumbull,39,39155,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/10,03/23,03/15,03/16,03/12,03/16,03/22,NA,04/27,NA,03/23,03/23,crwd_lockdown,03/23,crwd_business
+Ohio,NA,39,NA,state,03/15,NA,03/12,NA,NA,NA,03/19,NA,NA,03/17,03/23,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,nyt,03/15,keystone_cpv
+Oklahoma,Cleveland,40,40027,county,03/25,NA,NA,NA,NA,NA,03/25,NA,NA,NA,03/25,NA,03/25,03/25,03/14,03/16,03/13,03/13,03/28,03/25,03/28,03/28,04/09,NA,03/24,03/25,nyt,03/25,keystone_cpv
+Oklahoma,Oklahoma,40,40109,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,04/02,04/17,03/30,NA,03/17,03/16,03/13,03/16,NA,04/13,NA,03/16,03/28,nyt,04/02,crwd_business
+Oklahoma,Tulsa,40,40143,county,03/17,03/28,NA,NA,03/14,NA,03/25,NA,NA,03/16,03/28,NA,03/28,03/25,03/11,03/29,03/25,03/14,03/16,03/17,03/28,03/28,03/29,NA,03/24,03/28,nyt,03/17,keystone_cpv
+Oklahoma,NA,40,NA,state,03/25,03/25,NA,NA,NA,NA,NA,NA,NA,03/17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,keystone_cpv
+Oregon,Clackamas,41,41005,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/17,03/23,03/13,03/16,03/12,03/16,03/23,NA,NA,NA,03/23,03/23,crwd_lockdown,03/23,crwd_business
+Oregon,Marion,41,41047,county,NA,NA,NA,03/16,NA,NA,NA,NA,NA,03/12,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/12,03/23,03/23,NA,03/30,03/23,03/23,hikma_shelter,03/23,hikma_work
+Oregon,Multnomah,41,41051,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/23,03/23,03/12,03/16,03/23,04/08,03/23,NA,NA,NA,03/23,03/23,crwd_lockdown,03/23,crwd_business
+Oregon,Washington,41,41067,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,NA,NA,03/23,03/16,03/23,03/17,03/16,03/16,03/13,03/23,03/23,NA,NA,03/23,03/23,keystone_sip,03/23,crwd_business
+Oregon,NA,41,NA,state,03/17,03/23,NA,03/17,03/12,NA,03/23,NA,03/23,03/16,03/23,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,nyt,03/17,keystone_cpv
+Pennsylvania,Allegheny,42,42003,county,03/16,03/23,03/15,03/16,03/13,NA,03/23,NA,NA,NA,03/23,03/11,03/23,03/16,03/07,03/23,03/13,03/12,NA,NA,03/19,NA,NA,NA,03/19,03/23,nyt,03/16,keystone_cpv
+Pennsylvania,Beaver,42,42007,county,03/28,NA,NA,NA,NA,NA,03/28,NA,03/28,NA,03/28,03/28,03/28,NA,NA,NA,NA,NA,03/17,03/16,03/28,NA,03/16,NA,03/16,03/28,nyt,03/28,keystone_cpv
+Pennsylvania,Berks,42,42011,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,NA,NA,03/28,NA,NA,NA,NA,NA,NA,03/16,03/27,NA,03/24,NA,03/19,03/28,nyt,03/19,hikma_work
+Pennsylvania,Bucks,42,42017,county,03/15,NA,NA,NA,NA,NA,03/15,NA,NA,03/15,03/23,03/11,03/23,03/14,03/13,03/23,03/18,03/13,03/15,03/13,03/23,03/23,03/18,NA,03/23,03/23,nyt,03/15,keystone_cpv
+Pennsylvania,Butler,42,42019,county,03/27,NA,NA,NA,NA,NA,03/27,NA,03/27,NA,03/27,03/27,03/27,NA,NA,NA,NA,NA,03/27,03/16,03/27,NA,03/17,03/23,03/27,03/27,nyt,03/27,keystone_cpv
+Pennsylvania,Chester,42,42029,county,03/31,NA,NA,NA,NA,NA,03/31,NA,NA,NA,03/23,NA,03/23,03/16,03/13,03/23,03/13,03/13,03/23,03/16,03/23,03/29,NA,NA,03/23,03/23,nyt,03/31,keystone_cpv
+Pennsylvania,Dauphin,42,42043,county,NA,NA,NA,NA,NA,NA,03/30,NA,NA,NA,03/30,NA,03/30,NA,NA,NA,NA,NA,03/23,03/30,03/23,03/23,03/23,NA,03/23,03/30,nyt,03/23,hikma_work
+Pennsylvania,Delaware,42,42045,county,03/16,NA,NA,NA,03/15,NA,03/30,NA,NA,03/14,03/23,03/16,03/23,03/17,03/14,03/23,03/16,03/14,NA,NA,NA,NA,NA,NA,NA,03/23,nyt,03/16,keystone_cpv
+Pennsylvania,Lackawanna,42,42069,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,nyt,03/27,effective_date_sip
+Pennsylvania,Lancaster,42,42071,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/19,03/13,03/27,03/15,03/13,03/12,03/16,03/27,04/05,NA,NA,03/19,03/27,nyt,03/19,crwd_business
+Pennsylvania,Lehigh,42,42077,county,03/16,03/30,NA,NA,NA,NA,03/16,NA,NA,NA,03/25,03/25,03/25,NA,NA,NA,NA,NA,NA,04/09,NA,NA,NA,NA,NA,03/25,nyt,03/16,keystone_cpv
+Pennsylvania,Luzerne,42,42079,county,03/17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,NA,03/17,04/09,03/27,NA,04/21,NA,03/17,03/27,nyt,03/17,keystone_cpv
+Pennsylvania,Monroe,42,42089,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,nyt,03/23,effective_date_sip
+Pennsylvania,Montgomery,42,42091,county,03/13,NA,NA,NA,03/13,NA,03/13,NA,NA,03/13,03/23,03/23,03/23,03/19,03/13,03/23,03/18,03/13,03/23,03/12,03/23,03/23,03/20,NA,03/19,03/23,nyt,03/13,keystone_cpv
+Pennsylvania,Northampton,42,42095,county,03/25,03/30,NA,NA,NA,NA,03/31,NA,NA,03/16,03/25,03/25,03/25,NA,NA,NA,NA,NA,NA,03/16,03/23,NA,NA,NA,03/19,03/25,nyt,03/25,keystone_cpv
+Pennsylvania,Philadelphia,42,42101,county,03/23,03/23,NA,NA,NA,NA,03/23,NA,03/23,NA,03/23,03/23,03/23,03/16,03/13,03/23,03/17,03/14,03/23,03/16,03/23,04/02,04/11,04/10,03/23,03/23,nyt,03/23,keystone_cpv
+Pennsylvania,Pike,42,42103,county,03/27,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,03/27,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,nyt,03/27,keystone_cpv
+Pennsylvania,Schuylkill,42,42107,county,03/30,NA,NA,NA,NA,NA,03/30,NA,03/30,NA,03/30,03/30,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,nyt,03/30,keystone_cpv
+Pennsylvania,Westmoreland,42,42129,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/17,03/14,03/27,03/22,03/14,03/27,03/16,03/27,NA,NA,NA,03/27,03/27,nyt,03/17,crwd_business
+Pennsylvania,York,42,42133,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,nyt,03/27,effective_date_sip
+Pennsylvania,NA,42,NA,state,03/19,NA,NA,NA,NA,NA,03/21,NA,04/01,03/16,03/31,NA,04/01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,nyt,03/19,keystone_cpv
+Puerto Rico,NA,72,NA,state,03/15,03/15,NA,NA,NA,03/15,03/15,NA,03/15,03/16,NA,03/15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/15,keystone_cpv
+Rhode Island,Providence,44,44007,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/14,03/28,03/14,03/14,03/16,03/16,03/28,03/28,03/31,NA,03/28,03/28,crwd_lockdown,03/30,crwd_business
+Rhode Island,NA,44,NA,state,03/17,03/23,NA,03/17,NA,NA,03/30,NA,03/28,03/16,03/28,NA,03/28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,nyt,03/17,keystone_cpv
+South Carolina,Beaufort,45,45013,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,04/01,03/14,04/07,03/15,03/14,NA,NA,NA,NA,NA,NA,NA,04/07,crwd_lockdown,04/01,crwd_business
+South Carolina,Charleston,45,45019,county,04/03,NA,NA,NA,NA,NA,03/25,NA,NA,NA,03/25,NA,03/26,04/01,03/16,03/26,NA,03/16,NA,03/16,04/20,NA,NA,NA,04/21,03/26,nyt,04/03,keystone_cpv
+South Carolina,Greenville,45,45045,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,03/07,04/07,03/13,03/14,03/18,03/16,04/02,NA,NA,03/13,04/01,04/07,crwd_lockdown,04/01,crwd_business
+South Carolina,Kershaw,45,45055,county,03/24,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,keystone_cpv
+South Carolina,Lexington,45,45063,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/16,03/16,NA,NA,NA,03/16,03/16,hikma_shelter,03/16,hikma_work
+South Carolina,Richland,45,45079,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/29,NA,NA,NA,NA,NA,NA,04/22,NA,NA,NA,NA,03/19,03/29,nyt,03/19,hikma_work
+South Carolina,York,45,45091,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/15,04/06,04/06,04/13,NA,03/20,04/06,hikma_shelter,03/20,hikma_work
+South Carolina,NA,45,NA,state,03/18,03/23,03/17,03/23,NA,NA,03/31,NA,NA,03/16,04/07,03/21,04/07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/07,nyt,03/18,keystone_cpv
+South Dakota,Minnehaha,46,46099,county,04/01,NA,NA,NA,NA,NA,03/20,NA,NA,NA,NA,NA,NA,NA,03/07,NA,03/15,03/14,NA,03/15,NA,NA,04/15,NA,NA,NA,NA,04/01,keystone_cpv
+Tennessee,Davidson,47,47037,county,03/20,03/23,NA,NA,NA,NA,03/23,NA,NA,03/12,NA,NA,03/23,03/23,03/09,03/23,03/17,03/14,03/22,03/23,03/22,NA,04/10,NA,03/22,03/23,nyt,03/20,keystone_cpv
+Tennessee,Knox,47,47093,county,03/20,03/20,NA,NA,NA,NA,03/20,NA,NA,NA,04/01,03/20,03/24,03/23,03/23,03/23,03/15,03/16,03/23,03/16,03/23,03/23,04/25,NA,03/23,03/24,nyt,03/20,keystone_cpv
+Tennessee,Rutherford,47,47149,county,03/23,03/23,NA,NA,NA,NA,03/23,NA,NA,03/23,NA,03/23,NA,03/31,03/07,04/02,03/09,03/14,NA,NA,NA,NA,NA,NA,NA,04/02,crwd_lockdown,03/23,keystone_cpv
+Tennessee,Shelby,47,47157,county,03/25,03/25,NA,NA,NA,NA,03/25,NA,03/25,03/13,03/25,03/25,03/24,NA,NA,NA,NA,NA,NA,04/23,03/26,03/23,NA,NA,03/23,03/24,nyt,03/25,keystone_cpv
+Tennessee,Sumner,47,47165,county,03/24,03/20,NA,NA,NA,NA,03/24,NA,03/24,03/23,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,keystone_sip,03/24,keystone_cpv
+Tennessee,Williamson,47,47187,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/31,03/14,04/02,03/09,03/06,03/23,03/06,04/01,NA,04/18,NA,03/23,03/25,nyt,03/31,crwd_business
+Tennessee,Wilson,47,47189,county,NA,04/01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,03/14,04/02,03/14,03/03,03/22,03/16,04/24,NA,04/18,NA,04/28,04/02,crwd_lockdown,03/31,crwd_business
+Tennessee,NA,47,NA,state,03/23,03/23,NA,NA,NA,NA,03/23,NA,03/23,03/16,04/02,NA,03/31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/02,manual,03/23,keystone_cpv
+Texas,Bexar,48,48029,county,03/23,03/19,03/18,NA,03/13,NA,03/23,NA,03/23,03/13,03/24,03/18,03/24,03/24,03/16,03/24,03/24,03/12,03/19,03/13,03/23,NA,04/10,04/06,03/23,03/24,nyt,03/23,keystone_cpv
+Texas,Brazoria,48,48039,county,03/23,03/26,NA,NA,NA,NA,03/26,NA,03/26,NA,03/26,03/26,03/26,03/26,04/10,03/25,03/31,03/16,05/01,03/26,03/26,NA,NA,NA,03/26,03/26,nyt,03/23,keystone_cpv
+Texas,Brazos,48,48041,county,03/24,03/24,NA,NA,NA,NA,03/24,NA,03/24,NA,03/24,03/24,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,NA,NA,NA,03/24,03/24,keystone_sip,03/24,keystone_cpv
+Texas,Collin,48,48085,county,03/24,NA,03/16,NA,03/18,NA,NA,NA,NA,03/16,03/24,03/24,03/24,03/18,03/19,03/24,03/15,03/18,03/19,03/23,03/24,NA,03/16,NA,03/31,03/24,nyt,03/24,keystone_cpv
+Texas,Dallas,48,48113,county,03/16,03/18,03/16,NA,03/13,NA,03/21,NA,03/24,03/16,03/24,03/16,03/23,03/23,NA,03/23,NA,03/16,03/31,03/20,03/31,NA,04/10,NA,03/31,03/23,nyt,03/16,keystone_cpv
+Texas,Denton,48,48121,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,04/07,03/16,03/24,04/08,03/16,03/24,03/16,03/24,03/24,03/20,NA,03/24,03/25,nyt,04/07,crwd_business
+Texas,El Paso,48,48141,county,03/24,03/24,NA,NA,NA,NA,03/24,NA,NA,NA,03/24,03/24,03/24,NA,NA,NA,NA,NA,03/16,03/15,03/24,03/24,03/23,NA,03/24,03/24,nyt,03/24,keystone_cpv
+Texas,Fort Bend,48,48157,county,03/18,03/25,NA,NA,NA,NA,03/21,NA,03/25,03/16,03/25,NA,03/25,03/17,03/19,03/24,03/31,04/14,04/02,03/16,04/02,03/20,03/26,NA,03/20,03/25,nyt,03/18,keystone_cpv
+Texas,Galveston,48,48167,county,03/24,03/24,NA,NA,NA,NA,03/24,NA,03/24,03/16,03/24,03/24,03/24,NA,NA,NA,NA,NA,03/17,03/25,04/24,03/17,04/09,NA,03/24,03/24,nyt,03/24,keystone_cpv
+Texas,Harris,48,48201,county,03/24,03/19,NA,NA,NA,NA,03/24,NA,03/24,03/24,03/24,03/16,03/24,03/24,03/09,03/24,NA,03/13,03/24,03/24,03/20,03/24,NA,03/30,03/24,03/24,nyt,03/24,keystone_cpv
+Texas,Hidalgo,48,48215,county,03/22,03/22,NA,NA,NA,NA,03/22,NA,03/22,NA,03/26,03/26,03/25,NA,NA,NA,NA,NA,03/26,03/17,03/26,03/24,NA,NA,03/26,03/25,nyt,03/22,keystone_cpv
+Texas,Lubbock,48,48303,county,03/20,03/20,NA,NA,NA,NA,04/02,NA,NA,NA,04/02,NA,03/29,03/23,03/12,03/29,03/20,03/12,03/23,03/20,03/29,03/23,03/20,NA,03/23,03/29,nyt,03/20,keystone_cpv
+Texas,Montgomery,48,48339,county,03/18,03/27,NA,NA,NA,NA,03/27,NA,03/27,NA,03/27,03/27,NA,NA,NA,NA,NA,NA,03/27,03/16,03/27,NA,04/04,NA,03/27,03/27,keystone_sip,03/18,keystone_cpv
+Texas,Tarrant,48,48439,county,03/24,03/24,NA,NA,NA,NA,03/24,NA,03/24,03/16,03/24,03/13,03/24,03/24,03/20,03/24,04/02,03/16,03/24,03/24,03/24,03/24,03/31,NA,03/24,03/24,nyt,03/24,keystone_cpv
+Texas,Travis,48,48453,county,03/24,03/21,NA,NA,03/14,NA,03/24,NA,03/24,03/13,NA,03/24,03/24,03/13,03/13,03/24,03/17,03/18,03/24,03/06,03/24,03/24,NA,NA,03/24,03/24,nyt,03/24,keystone_cpv
+Texas,Webb,48,48479,county,03/23,03/23,03/16,NA,NA,NA,03/27,NA,03/23,NA,03/27,03/16,NA,NA,NA,NA,NA,NA,04/02,03/30,03/28,04/02,04/16,NA,03/28,03/27,keystone_sip,03/23,keystone_cpv
+Texas,NA,48,NA,state,03/20,03/20,03/20,NA,NA,NA,04/02,NA,NA,03/20,NA,03/20,04/02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/02,nyt,03/20,keystone_cpv
+Utah,Davis,49,49011,county,03/18,03/18,NA,NA,NA,NA,04/01,NA,NA,03/13,04/01,03/18,04/01,NA,NA,NA,NA,NA,03/17,03/13,04/01,NA,03/16,NA,04/01,04/01,nyt,03/18,keystone_cpv
+Utah,Salt Lake,49,49035,county,03/16,03/19,03/16,NA,NA,NA,03/29,NA,03/29,NA,03/30,03/16,03/30,03/13,03/13,03/13,03/13,03/13,03/16,03/06,03/10,NA,NA,NA,03/16,03/30,nyt,03/16,keystone_cpv
+Utah,Summit,49,49043,county,03/25,NA,NA,NA,NA,NA,03/25,NA,03/25,03/25,03/25,03/25,03/27,03/15,03/13,03/25,03/12,03/14,03/27,03/16,03/27,03/27,04/02,NA,03/27,03/27,nyt,03/25,keystone_cpv
+Utah,Utah,49,49049,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,NA,NA,03/14,NA,03/12,03/14,03/12,03/16,03/27,NA,04/02,NA,03/30,03/27,hikma_shelter,03/30,hikma_work
+Utah,NA,49,NA,state,03/18,03/18,NA,NA,NA,NA,NA,NA,NA,03/16,03/27,03/20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,keystone_cpv
+Vermont,Chittenden,50,50007,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/16,03/25,03/14,03/18,03/13,03/18,03/28,NA,NA,NA,03/24,03/25,crwd_lockdown,03/25,crwd_business
+Vermont,NA,50,NA,state,03/24,03/21,03/16,NA,03/13,NA,03/24,NA,03/24,03/18,03/24,03/24,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,nyt,03/24,keystone_cpv
+Virginia,Arlington,51,51013,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/09,03/30,03/16,03/14,03/17,03/13,03/30,NA,03/18,NA,03/24,03/30,crwd_lockdown,03/24,crwd_business
+Virginia,Chesterfield,51,51041,county,03/30,NA,NA,NA,NA,NA,NA,NA,NA,03/17,NA,03/25,NA,03/24,03/16,03/24,03/24,03/24,03/24,03/16,03/24,03/24,04/16,NA,03/24,03/24,crwd_lockdown,03/30,keystone_cpv
+Virginia,Fairfax,51,51059,county,03/27,NA,03/18,NA,NA,NA,03/27,NA,03/18,03/18,03/30,03/30,NA,03/24,03/13,03/30,03/13,03/13,03/18,03/23,03/30,NA,NA,04/11,03/23,03/30,keystone_sip,03/27,keystone_cpv
+Virginia,Henrico,51,51087,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/24,03/24,03/23,03/23,03/23,NA,03/23,03/30,NA,04/24,NA,03/24,03/23,crwd_lockdown,03/24,crwd_business
+Virginia,James City,51,51095,county,04/13,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/24,03/13,03/30,03/30,03/23,NA,NA,NA,NA,NA,NA,NA,03/30,crwd_lockdown,04/13,keystone_cpv
+Virginia,Loudoun,51,51107,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,NA,NA,NA,03/24,03/11,03/30,03/14,03/12,03/14,03/12,03/16,03/24,03/23,03/17,03/24,03/30,crwd_lockdown,03/24,crwd_business
+Virginia,Prince William,51,51153,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,03/24,03/23,03/23,03/13,03/30,03/23,03/24,NA,03/24,03/24,crwd_lockdown,03/24,crwd_business
+Virginia,Richmond City,51,51760,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/20,03/20,03/20,04/30,03/24,03/16,03/30,03/30,NA,NA,03/24,03/20,crwd_lockdown,03/20,crwd_business
+Virginia,Virginia Beach,51,51810,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/24,03/30,03/23,03/24,NA,NA,NA,NA,NA,NA,NA,03/30,crwd_lockdown,03/23,crwd_business
+Virginia,NA,51,NA,state,03/24,03/17,03/15,NA,NA,NA,03/24,NA,03/24,03/13,03/30,03/24,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,nyt,03/24,keystone_cpv
+Washington,Benton,53,53005,county,03/23,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,03/23,NA,03/25,03/23,03/25,03/29,03/16,03/13,03/13,03/23,NA,NA,NA,03/16,03/25,crwd_lockdown,03/23,keystone_cpv
+Washington,Clark,53,53011,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/25,03/25,03/25,03/29,03/16,03/23,03/13,03/23,NA,NA,NA,03/23,03/25,crwd_lockdown,03/25,crwd_business
+Washington,King,53,53033,county,03/16,NA,03/16,NA,03/11,NA,03/16,NA,03/16,03/12,03/25,03/11,NA,03/23,03/06,03/23,03/11,03/13,03/23,03/23,03/02,NA,03/19,NA,03/23,03/25,keystone_sip,03/16,keystone_cpv
+Washington,Kitsap,53,53035,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/16,03/25,03/06,03/16,03/15,03/17,03/23,03/23,NA,NA,03/23,03/25,crwd_lockdown,03/25,crwd_business
+Washington,Pierce,53,53053,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/19,03/23,03/11,03/17,04/12,03/12,03/24,NA,03/20,NA,03/24,03/23,crwd_lockdown,03/23,crwd_business
+Washington,Snohomish,53,53061,county,03/24,03/24,NA,NA,NA,NA,03/24,NA,NA,NA,03/24,03/24,NA,03/23,03/06,03/22,03/15,03/17,03/11,03/13,04/02,03/23,03/23,NA,04/02,03/24,keystone_sip,03/24,keystone_cpv
+Washington,Spokane,53,53063,county,03/20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,NA,NA,NA,NA,NA,NA,03/13,03/17,03/23,NA,03/23,NA,03/23,03/23,hikma_shelter,03/20,keystone_cpv
+Washington,Whatcom,53,53073,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,NA,NA,NA,03/25,03/11,03/23,03/11,03/14,03/23,03/17,03/23,NA,04/03,NA,03/26,03/23,crwd_lockdown,03/25,crwd_business
+Washington,Yakima,53,53077,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/23,03/23,NA,NA,NA,NA,NA,NA,03/20,03/13,03/13,03/13,03/27,NA,03/20,03/23,keystone_sip,03/20,hikma_work
+Washington,NA,53,NA,state,03/16,03/23,03/16,NA,03/11,NA,03/23,NA,03/23,03/13,03/23,NA,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,nyt,03/16,keystone_cpv
+West Virginia,NA,54,NA,state,03/18,03/24,NA,NA,NA,NA,03/24,NA,NA,03/13,03/24,03/24,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,nyt,03/18,keystone_cpv
+Wisconsin,Dane,55,55025,county,03/19,NA,NA,NA,03/14,NA,NA,NA,03/14,NA,NA,03/19,NA,03/25,03/16,03/25,03/15,03/19,03/16,03/16,03/24,NA,NA,NA,03/24,03/25,crwd_lockdown,03/19,keystone_cpv
+Wisconsin,Milwaukee,55,55079,county,03/20,03/24,NA,NA,NA,NA,03/20,NA,03/20,03/20,03/20,03/20,NA,03/25,03/15,03/25,03/12,03/14,03/12,NA,03/23,03/23,NA,NA,03/23,03/20,keystone_sip,03/20,keystone_cpv
+Wisconsin,Waukesha,55,55133,county,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,NA,NA,NA,03/25,03/09,03/25,03/13,03/14,03/13,03/13,03/23,NA,NA,NA,03/23,03/25,crwd_lockdown,03/25,crwd_business
+Wisconsin,NA,55,NA,state,03/17,03/17,03/17,NA,NA,NA,03/25,NA,03/17,03/18,03/25,03/17,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,nyt,03/17,keystone_cpv
+Wyoming,NA,56,NA,state,03/30,03/19,NA,NA,NA,NA,03/30,NA,03/30,03/15,NA,04/03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,keystone_cpv
+NA,NA,08,08007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,effective_date_sip
+NA,NA,08,08067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,NA,03/26,03/23,04/26,NA,03/20,03/16,04/26,NA,NA,04/26,hikma_work
+NA,NA,08,08097,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,effective_date_sip
+NA,NA,12,12035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,effective_date_sip
+NA,NA,12,12073,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/25,03/23,03/24,03/18,03/18,03/24,03/12,03/25,NA,NA,NA,04/01,NA,NA,03/25,crwd_business
+NA,NA,12,12087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,effective_date_sip
+NA,NA,13,13051,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,04/02,04/02,04/02,04/02,04/17,NA,04/20,NA,NA,04/20,hikma_work
+NA,NA,13,13059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/20,04/16,03/20,03/14,03/19,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,crwd_business
+NA,NA,13,13099,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,effective_date_sip
+NA,NA,20,20043,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,effective_date_sip
+NA,NA,20,20045,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/24,03/13,03/24,03/22,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,20,20103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/24,NA,03/24,03/17,03/17,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,20,20121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,effective_date_sip
+NA,NA,20,20191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,effective_date_sip
+NA,NA,28,28071,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,effective_date_sip
+NA,NA,28,28075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,NA,NA,NA,NA,NA,03/27,03/16,03/31,03/31,NA,NA,03/27,NA,NA,03/27,hikma_work
+NA,NA,28,28081,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,NA,NA,NA,NA,NA,03/21,03/16,03/22,NA,NA,NA,03/22,NA,NA,03/22,hikma_work
+NA,NA,29,29019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/25,03/11,03/25,03/16,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,crwd_business
+NA,NA,29,29021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,effective_date_sip
+NA,NA,29,29037,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,effective_date_sip
+NA,NA,29,29047,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/19,03/23,03/16,03/18,03/16,03/18,03/24,03/24,03/20,NA,03/24,NA,NA,03/16,crwd_business
+NA,NA,29,29051,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,effective_date_sip
+NA,NA,29,29077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,NA,NA,NA,NA,NA,03/16,03/19,03/24,03/24,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,29,29099,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,effective_date_sip
+NA,NA,29,29165,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,effective_date_sip
+NA,NA,29,29175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,effective_date_sip
+NA,NA,29,29177,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,effective_date_sip
+NA,NA,37,37021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/10,03/16,03/10,03/13,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/10,crwd_business
+NA,NA,37,37025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,effective_date_sip
+NA,NA,37,37071,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,effective_date_sip
+NA,NA,37,37087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,effective_date_sip
+NA,NA,37,37115,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,effective_date_sip
+NA,NA,37,37135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/27,03/14,03/27,03/14,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,crwd_business
+NA,NA,37,37147,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,03/24,03/16,03/25,NA,NA,NA,03/25,NA,NA,03/25,hikma_work
+NA,NA,40,40119,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,NA,NA,NA,NA,NA,NA,04/06,NA,NA,04/06,NA,NA,NA,NA,03/30,effective_date_sip
+NA,NA,40,40131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/06,NA,NA,NA,NA,NA,NA,04/06,NA,NA,04/07,NA,NA,NA,NA,04/06,effective_date_sip
+NA,NA,40,40135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/04,effective_date_sip
+NA,NA,42,42025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,effective_date_sip
+NA,NA,42,42027,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,NA,NA,NA,NA,NA,NA,03/20,03/28,NA,NA,03/20,03/29,NA,NA,03/29,hikma_work
+NA,NA,42,42041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/17,03/07,03/30,03/15,03/14,03/30,03/14,03/30,NA,03/31,NA,04/19,NA,NA,03/17,crwd_business
+NA,NA,42,42049,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,03/12,03/16,03/24,NA,04/28,NA,03/17,NA,NA,03/17,hikma_work
+NA,NA,42,42125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,03/19,03/23,04/01,03/17,03/14,03/28,03/16,03/23,NA,03/16,NA,03/21,NA,NA,03/19,crwd_business
+NA,NA,48,48027,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,NA,03/18,03/18,03/18,03/18,NA,NA,04/30,NA,NA,04/30,hikma_work
+NA,NA,48,48061,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,03/22,03/19,03/22,03/22,03/30,NA,03/22,NA,NA,03/22,hikma_work
+NA,NA,48,48071,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,effective_date_sip
+NA,NA,48,48139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,effective_date_sip
+NA,NA,48,48183,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,effective_date_sip
+NA,NA,48,48203,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,effective_date_sip
+NA,NA,48,48209,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,NA,NA,NA,NA,NA,03/20,03/16,03/26,NA,NA,NA,03/26,NA,NA,03/26,hikma_work
+NA,NA,48,48231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,effective_date_sip
+NA,NA,48,48257,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,effective_date_sip
+NA,NA,48,48291,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,effective_date_sip
+NA,NA,48,48309,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,NA,NA,NA,NA,NA,03/23,03/19,03/23,03/23,03/13,03/23,03/23,NA,NA,03/23,hikma_work
+NA,NA,48,48347,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,effective_date_sip
+NA,NA,48,48355,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/18,03/12,03/25,03/18,03/18,03/26,03/12,03/26,03/26,NA,NA,03/26,NA,NA,03/18,crwd_business
+NA,NA,48,48373,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,effective_date_sip
+NA,NA,48,48375,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,effective_date_sip
+NA,NA,48,48395,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,effective_date_sip
+NA,NA,48,48397,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,effective_date_sip
+NA,NA,48,48407,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,effective_date_sip
+NA,NA,48,48415,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,effective_date_sip
+NA,NA,48,48423,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,NA,03/19,03/27,03/27,NA,NA,NA,03/27,NA,NA,03/27,hikma_work
+NA,NA,48,48427,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,effective_date_sip
+NA,NA,48,48485,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,effective_date_sip
+NA,NA,48,48489,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,effective_date_sip
+NA,NA,48,48491,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/25,03/14,03/25,03/13,03/05,03/16,03/18,03/24,03/26,04/30,NA,03/24,NA,NA,03/25,crwd_business
+NA,NA,56,56039,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,effective_date_sip
+NA,NA,01,01001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,03/13,04/04,03/09,03/15,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,crwd_business
+NA,NA,01,01125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,03/14,04/04,03/09,03/18,03/16,03/27,04/03,NA,04/24,NA,03/27,NA,NA,03/28,crwd_business
+NA,NA,06,06023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,03/17,03/19,03/18,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,crwd_business
+NA,NA,06,06045,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/20,03/18,03/09,03/17,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,crwd_business
+NA,NA,06,06047,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/18,03/20,03/16,03/19,03/13,03/19,03/20,04/08,05/04,NA,03/20,NA,NA,03/20,crwd_business
+NA,NA,06,06055,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/16,03/19,03/18,03/14,03/18,03/18,03/18,NA,04/24,NA,03/18,NA,NA,03/17,crwd_business
+NA,NA,06,06087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/16,03/17,03/17,03/11,03/16,03/16,03/16,04/12,NA,NA,03/16,NA,NA,03/17,crwd_business
+NA,NA,06,06089,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/13,03/19,03/12,03/16,03/19,03/17,03/19,NA,NA,NA,03/19,NA,NA,03/12,crwd_business
+NA,NA,06,06095,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/16,03/19,03/22,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,crwd_business
+NA,NA,06,06113,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,03/16,03/19,03/17,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,crwd_business
+NA,NA,08,08107,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/12,03/26,03/13,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,crwd_business
+NA,NA,08,08117,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/13,03/27,03/13,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,crwd_business
+NA,NA,09,09011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/12,03/24,03/14,03/13,03/12,03/13,03/23,NA,NA,NA,03/23,NA,NA,03/21,crwd_business
+NA,NA,09,09015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/15,03/23,03/15,03/15,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,crwd_business
+NA,NA,15,15001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/10,03/23,03/24,03/16,03/18,03/25,03/19,03/25,NA,03/27,NA,03/25,NA,NA,04/10,crwd_business
+NA,NA,15,15009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/12,03/25,03/12,03/19,03/17,03/15,03/25,03/28,04/15,04/06,03/17,NA,NA,03/16,crwd_business
+NA,NA,19,19157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/14,NA,03/14,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,crwd_business
+NA,NA,19,19169,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/23,NA,03/14,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,crwd_business
+NA,NA,17,17019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/14,03/21,03/14,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,crwd_business
+NA,NA,17,17143,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/13,03/21,03/21,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,crwd_business
+NA,NA,17,17167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/07,03/21,03/12,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,crwd_business
+NA,NA,18,18003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/11,03/23,03/22,03/13,03/25,03/13,03/31,03/24,NA,NA,03/25,NA,NA,03/23,crwd_business
+NA,NA,18,18105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/14,03/25,03/18,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,crwd_business
+NA,NA,18,18157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/06,03/13,04/06,03/24,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/06,crwd_business
+NA,NA,21,21059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/20,03/19,03/12,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,crwd_business
+NA,NA,21,21209,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/14,03/19,03/19,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,crwd_business
+NA,NA,21,21239,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/23,03/25,03/12,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,crwd_business
+NA,NA,25,25007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/17,03/24,NA,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,25,25019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/12,03/23,NA,03/17,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,27,27003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/18,03/27,03/22,03/18,03/16,03/15,03/27,03/27,NA,03/18,03/27,NA,NA,03/27,crwd_business
+NA,NA,27,27035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/16,03/27,03/22,03/18,03/16,03/18,03/16,03/16,03/16,NA,03/16,NA,NA,03/27,crwd_business
+NA,NA,27,27037,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/15,03/25,03/18,03/16,03/27,03/18,03/27,03/27,NA,NA,03/27,NA,NA,03/25,crwd_business
+NA,NA,27,27139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/11,03/27,03/18,03/08,03/16,03/18,03/16,03/16,NA,NA,03/16,NA,NA,03/27,crwd_business
+NA,NA,27,27163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/16,03/27,03/15,03/18,03/16,03/18,03/16,03/16,03/30,NA,03/16,NA,NA,03/27,crwd_business
+NA,NA,30,30029,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/23,03/26,03/17,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,crwd_business
+NA,NA,30,30063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,03/23,03/28,03/22,03/14,03/24,03/24,03/24,03/24,03/24,NA,03/24,NA,NA,03/28,crwd_business
+NA,NA,37,37035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/13,03/27,03/27,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,crwd_business
+NA,NA,37,37051,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/07,03/30,03/16,03/14,03/27,03/16,03/27,NA,NA,NA,03/17,NA,NA,03/30,crwd_business
+NA,NA,37,37133,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/27,03/27,03/23,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,crwd_business
+NA,NA,37,37179,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/14,03/30,03/16,03/14,03/30,03/16,03/30,NA,NA,NA,03/30,NA,NA,03/30,crwd_business
+NA,NA,31,31109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/16,03/26,03/15,03/16,03/25,03/25,03/25,NA,03/24,NA,03/25,NA,NA,03/25,crwd_business
+NA,NA,33,33009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/12,03/26,03/20,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,crwd_business
+NA,NA,34,34009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,03/15,03/21,03/17,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/21,crwd_business
+NA,NA,35,35028,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/13,03/23,04/12,03/13,03/12,03/16,03/19,03/19,04/14,NA,03/24,NA,NA,03/23,crwd_business
+NA,NA,35,35049,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/23,03/23,03/23,03/23,03/12,03/16,03/19,03/19,03/14,NA,03/24,NA,NA,03/23,crwd_business
+NA,NA,32,32007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/23,04/01,NA,03/15,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,crwd_business
+NA,NA,36,36047,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/11,03/22,03/12,03/14,03/20,03/17,03/20,04/03,04/10,04/10,03/20,NA,NA,03/22,crwd_business
+NA,NA,36,36075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/19,03/17,03/14,03/15,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,crwd_business
+NA,NA,36,36081,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/19,03/22,03/15,03/14,03/20,03/17,03/20,03/20,04/10,04/10,03/20,NA,NA,03/22,crwd_business
+NA,NA,39,39165,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/24,03/24,03/24,03/14,03/12,03/17,03/24,NA,NA,NA,04/24,NA,NA,03/24,crwd_business
+NA,NA,41,41003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/14,03/23,03/17,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,41,41017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/14,03/23,03/13,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,41,41029,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/21,03/23,03/17,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,41,41039,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/18,03/23,03/11,03/12,03/23,03/17,03/23,03/23,NA,NA,03/23,NA,NA,03/23,crwd_business
+NA,NA,41,41041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/21,03/23,03/17,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,42,42005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/13,04/01,03/18,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,crwd_business
+NA,NA,44,44009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/07,03/28,03/13,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,crwd_business
+NA,NA,45,45003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,03/07,04/07,03/17,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,crwd_business
+NA,NA,47,47059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,03/20,03/31,03/22,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,crwd_business
+NA,NA,47,47125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,03/14,04/01,03/09,03/14,03/31,03/19,03/31,NA,03/30,NA,03/31,NA,NA,03/31,crwd_business
+NA,NA,47,47179,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,03/23,03/31,NA,03/18,03/22,03/18,04/24,04/01,04/19,NA,04/28,NA,NA,03/31,crwd_business
+NA,NA,48,48091,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/11,03/31,04/04,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,crwd_business
+NA,NA,51,51003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/17,03/30,03/17,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51510,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,03/24,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/24,03/23,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/11,03/30,03/23,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51540,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/06,03/30,03/14,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51550,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,03/24,03/16,03/30,03/16,03/30,03/30,NA,NA,03/30,NA,NA,03/24,crwd_business
+NA,NA,51,51061,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/23,03/24,03/24,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51065,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,03/24,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/14,03/30,03/30,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/30,03/30,03/30,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51079,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,03/30,03/22,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51085,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/11,03/30,03/13,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/13,03/30,03/23,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51680,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,03/24,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,04/23,03/30,03/15,03/13,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/11,03/30,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51700,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/14,NA,03/16,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,crwd_business
+NA,NA,51,51155,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/23,03/23,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51770,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/23,03/31,03/16,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51161,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/18,03/30,03/16,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51775,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/23,03/24,03/23,03/24,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51171,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/11,03/23,03/18,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,crwd_business
+NA,NA,51,51177,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/23,03/23,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,crwd_business
+NA,NA,51,51790,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/11,03/30,03/17,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/23,03/23,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,crwd_business
+NA,NA,51,51820,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/24,03/30,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,51,51197,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/23,03/23,03/23,03/23,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,crwd_business
+NA,NA,50,50001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/21,03/25,03/21,03/18,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,crwd_business
+NA,NA,50,50003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/14,03/24,03/18,03/18,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,crwd_business
+NA,NA,50,50017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/14,03/24,03/20,03/18,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,crwd_business
+NA,NA,50,50027,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/14,03/25,03/13,03/17,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,crwd_business
+NA,NA,53,53067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/25,03/25,03/15,03/16,03/23,03/13,03/23,03/23,04/06,NA,03/23,NA,NA,03/25,crwd_business
+NA,NA,54,54025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,NA,03/24,03/22,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,54,54029,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/12,03/24,03/22,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,54,54061,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/19,03/24,03/29,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,54,54069,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/24,03/24,03/22,03/16,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,54,54075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,03/22,03/14,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,crwd_business
+NA,NA,56,56013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,03/16,03/21,03/16,03/15,04/01,04/01,04/01,NA,NA,NA,04/01,NA,NA,03/19,crwd_business
+NA,NA,01,01015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/16,04/03,NA,03/18,NA,04/30,NA,NA,04/30,hikma_work
+NA,NA,01,01045,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/04,04/06,04/04,04/04,04/28,NA,03/27,NA,NA,03/27,hikma_work
+NA,NA,01,01055,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/18,04/03,NA,NA,NA,04/30,NA,NA,04/30,hikma_work
+NA,NA,01,01069,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/18,04/03,NA,04/16,NA,04/30,NA,NA,04/30,hikma_work
+NA,NA,01,01083,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/04,03/16,04/04,NA,NA,NA,04/30,NA,NA,04/30,hikma_work
+NA,NA,01,01103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/04,03/17,04/03,NA,04/15,NA,04/30,NA,NA,04/30,hikma_work
+NA,NA,12,12003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,04/18,03/19,NA,NA,NA,04/03,NA,NA,04/03,hikma_work
+NA,NA,12,12005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,04/13,04/03,NA,NA,NA,04/03,NA,NA,04/03,hikma_work
+NA,NA,12,12017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/17,04/02,NA,NA,NA,04/02,NA,NA,04/02,hikma_work
+NA,NA,12,12019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,04/03,NA,05/04,NA,04/03,NA,NA,04/03,hikma_work
+NA,NA,12,12061,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/11,03/13,04/01,NA,03/20,NA,04/03,NA,NA,04/03,hikma_work
+NA,NA,12,12083,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/27,NA,03/18,NA,03/26,NA,NA,03/26,hikma_work
+NA,NA,12,12085,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/13,NA,NA,NA,NA,04/03,NA,NA,04/03,hikma_work
+NA,NA,12,12111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/13,03/23,NA,NA,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,12,12113,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/23,04/01,NA,NA,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,12,12119,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,03/13,04/01,NA,NA,NA,04/01,NA,NA,04/01,hikma_work
+NA,NA,13,13021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,04/16,03/13,NA,04/16,NA,04/13,NA,NA,04/13,hikma_work
+NA,NA,13,13031,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/19,03/20,05/05,NA,NA,05/04,NA,NA,05/04,hikma_work
+NA,NA,13,13073,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/14,03/14,03/14,04/01,03/24,03/15,05/01,NA,NA,05/01,hikma_work
+NA,NA,13,13077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/14,03/13,03/14,NA,04/24,NA,03/14,NA,NA,03/14,hikma_work
+NA,NA,13,13117,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/12,03/27,03/27,03/20,NA,03/27,NA,NA,03/27,hikma_work
+NA,NA,13,13127,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/13,03/13,NA,04/23,NA,NA,NA,NA,03/13,effective_date_sip
+NA,NA,13,13153,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/14,04/06,03/14,NA,NA,NA,03/14,NA,NA,03/14,hikma_work
+NA,NA,13,13157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/13,03/18,NA,05/04,NA,05/04,NA,NA,05/04,hikma_work
+NA,NA,13,13223,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/17,03/26,NA,NA,NA,03/26,NA,NA,03/26,hikma_work
+NA,NA,15,15007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/24,03/25,03/25,NA,NA,03/25,NA,NA,03/25,hikma_work
+NA,NA,16,16005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/17,05/01,03/31,03/20,NA,05/01,NA,NA,05/01,hikma_work
+NA,NA,16,16011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/23,05/01,NA,NA,NA,05/01,NA,NA,05/01,hikma_work
+NA,NA,16,16017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/25,05/01,NA,04/14,NA,05/01,NA,NA,05/01,hikma_work
+NA,NA,16,16019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/16,05/01,NA,04/03,03/31,05/01,NA,NA,05/01,hikma_work
+NA,NA,16,16055,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/15,03/16,03/25,04/07,03/03,NA,03/25,NA,NA,03/25,hikma_work
+NA,NA,16,16083,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/16,05/01,NA,03/26,NA,05/01,NA,NA,05/01,hikma_work
+NA,NA,17,17201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/20,03/20,03/20,NA,NA,03/20,NA,NA,03/20,hikma_work
+NA,NA,18,18039,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,05/14,03/25,04/01,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,18,18163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,04/06,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,21,21117,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/19,03/16,03/18,NA,04/15,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,22,22063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/23,NA,03/31,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,22,22097,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/23,NA,03/25,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,23,23001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,23,23003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,23,23009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,23,23011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,03/20,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,23,23013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,23,23017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,23,23019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,03/20,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,23,23023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,23,23025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,04/12,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,23,23027,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/31,NA,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,24,24025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/13,03/30,03/30,03/03,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,26,26077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/16,03/24,03/24,04/17,04/02,03/24,NA,NA,03/24,hikma_work
+NA,NA,26,26139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/16,03/23,03/26,NA,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,27,27007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/18,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/18,03/16,03/16,NA,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/16,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/16,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/18,03/16,03/16,NA,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27027,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/18,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27049,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/18,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27061,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/18,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/18,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/16,03/16,03/16,03/20,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27137,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/15,03/15,03/23,NA,NA,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,27,27141,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/16,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27145,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/18,03/16,03/16,03/30,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27169,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/18,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,27,27171,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/16,03/16,03/16,03/16,NA,03/16,NA,NA,03/16,hikma_work
+NA,NA,28,28035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/16,04/03,04/03,NA,NA,05/01,NA,NA,05/01,hikma_work
+NA,NA,28,28047,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/19,03/17,NA,04/25,NA,03/17,NA,NA,03/17,hikma_work
+NA,NA,28,28067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/19,04/03,04/03,NA,NA,03/26,NA,NA,03/26,hikma_work
+NA,NA,28,28073,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/16,04/03,04/03,NA,NA,05/01,NA,NA,05/01,hikma_work
+NA,NA,28,28087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,03/24,NA,04/21,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,28,28089,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/14,04/03,NA,NA,NA,03/20,NA,NA,03/20,hikma_work
+NA,NA,28,28099,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/01,03/14,04/01,NA,03/18,NA,04/01,NA,NA,04/01,hikma_work
+NA,NA,28,28109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/03,03/16,04/03,NA,NA,NA,05/04,NA,NA,05/04,hikma_work
+NA,NA,28,28121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/24,03/16,04/03,NA,NA,NA,04/01,NA,NA,04/01,hikma_work
+NA,NA,30,30111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/28,03/17,03/28,03/28,03/31,NA,03/17,NA,NA,03/17,hikma_work
+NA,NA,31,31153,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,03/19,03/31,NA,NA,NA,03/31,NA,NA,03/31,hikma_work
+NA,NA,32,32005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/25,03/12,03/25,03/25,03/05,NA,03/12,NA,NA,03/12,hikma_work
+NA,NA,32,32023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/08,03/15,04/08,NA,04/18,NA,NA,NA,NA,04/08,effective_date_sip
+NA,NA,35,35003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/19,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/19,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/20,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/18,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/23,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,04/03,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/16,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35027,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35029,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35031,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/24,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35033,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/19,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35037,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35039,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/19,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35047,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/19,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35051,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35053,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/30,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35055,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/19,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35057,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/19,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,35,35061,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/16,03/19,03/19,03/30,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,36,36005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/17,03/20,04/03,04/10,04/10,03/20,NA,NA,03/20,hikma_work
+NA,NA,37,37057,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/16,03/27,04/16,03/23,04/14,03/27,NA,NA,03/27,hikma_work
+NA,NA,37,37097,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/16,03/30,NA,NA,03/18,03/30,NA,NA,03/30,hikma_work
+NA,NA,37,37101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/23,03/23,03/23,NA,NA,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,37,37129,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/20,03/16,03/30,NA,NA,NA,03/30,NA,NA,03/30,hikma_work
+NA,NA,38,38017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/07,03/19,04/07,NA,04/25,NA,NA,NA,NA,04/07,effective_date_sip
+NA,NA,39,39017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/12,03/22,NA,NA,NA,03/15,NA,NA,03/15,hikma_work
+NA,NA,39,39041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/14,03/14,03/23,NA,NA,04/13,04/06,NA,NA,04/06,hikma_work
+NA,NA,39,39057,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/12,03/12,03/22,NA,NA,NA,03/22,NA,NA,03/22,hikma_work
+NA,NA,39,39085,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/16,03/23,NA,NA,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,04,04001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/29,03/23,NA,NA,NA,03/23,NA,NA,03/23,hikma_work
+NA,NA,04,04003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/30,03/30,04/01,NA,03/24,03/30,NA,NA,03/30,hikma_work
+NA,NA,40,40031,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/06,04/01,NA,NA,NA,03/25,NA,NA,03/25,hikma_work
+NA,NA,40,40145,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,04/06,03/18,NA,04/10,NA,03/18,NA,NA,03/18,hikma_work
+NA,NA,04,04025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/31,03/16,03/31,NA,NA,NA,03/31,NA,NA,03/31,hikma_work
+NA,NA,44,44003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/16,03/28,NA,03/31,NA,03/30,NA,NA,03/30,hikma_work
+NA,NA,45,45007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/17,04/06,NA,NA,NA,04/01,NA,NA,04/01,hikma_work
+NA,NA,45,45035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/16,04/01,NA,NA,NA,04/01,NA,NA,04/01,hikma_work
+NA,NA,45,45041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/15,04/07,NA,NA,NA,03/31,NA,NA,03/31,hikma_work
+NA,NA,45,45051,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04/07,03/24,04/07,NA,NA,NA,04/01,NA,NA,04/01,hikma_work
+NA,NA,45,45057,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/15,04/07,NA,NA,NA,03/31,NA,NA,03/31,hikma_work
+NA,NA,45,45077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/15,04/07,NA,NA,NA,03/31,NA,NA,03/31,hikma_work
+NA,NA,45,45083,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/16,NA,04/06,03/30,NA,03/19,NA,NA,03/19,hikma_work
+NA,NA,45,45085,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/15,04/07,NA,05/01,NA,04/07,NA,NA,04/07,hikma_work
+NA,NA,47,47001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/16,04/24,NA,04/26,NA,04/28,NA,NA,04/28,hikma_work
+NA,NA,47,47009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/16,03/24,NA,05/02,NA,03/28,NA,NA,03/28,hikma_work
+NA,NA,47,47011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/13,04/24,NA,05/02,NA,04/28,NA,NA,04/28,hikma_work
+NA,NA,47,47113,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/20,04/24,NA,04/18,NA,04/28,NA,NA,04/28,hikma_work
+NA,NA,47,47119,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/16,04/24,NA,04/18,NA,04/28,NA,NA,04/28,hikma_work
+NA,NA,47,47141,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/16,04/24,NA,03/19,NA,04/28,NA,NA,04/28,hikma_work
+NA,NA,47,47155,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,03/16,04/24,NA,04/18,NA,04/28,NA,NA,04/28,hikma_work
+NA,NA,47,47163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/22,04/15,04/24,NA,04/20,NA,04/28,NA,NA,04/28,hikma_work
+NA,NA,48,48135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/30,03/16,03/30,NA,04/27,NA,03/30,NA,NA,03/30,hikma_work
+NA,NA,48,48187,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/16,04/02,NA,04/22,NA,04/03,NA,NA,04/03,hikma_work
+NA,NA,48,48245,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/27,03/23,03/27,03/27,03/13,NA,03/19,NA,NA,03/19,hikma_work
+NA,NA,05,05007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/19,NA,NA,04/13,NA,03/26,NA,NA,03/26,hikma_work
+NA,NA,51,51710,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/17,03/13,03/30,NA,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,55,55105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/16,03/16,03/24,NA,NA,NA,03/24,NA,NA,03/24,hikma_work
+NA,NA,06,06025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/17,03/18,NA,NA,NA,03/21,NA,NA,03/21,hikma_work
+NA,NA,06,06049,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,05/02,03/16,05/02,NA,NA,NA,05/02,NA,NA,05/02,hikma_work
+NA,NA,06,06053,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/16,03/18,04/04,NA,NA,03/18,NA,NA,03/18,hikma_work
+NA,NA,06,06099,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/19,03/19,04/14,04/20,NA,03/19,NA,NA,03/19,hikma_work
+NA,NA,08,08014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/23,04/26,NA,03/20,03/16,04/26,NA,NA,04/26,hikma_work
+NA,NA,08,08043,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/23,03/26,NA,NA,NA,03/19,NA,NA,03/19,hikma_work
+NA,NA,08,08045,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/26,03/23,04/26,NA,03/20,03/16,04/26,NA,NA,04/26,hikma_work
+NA,NA,08,08077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/13,03/23,04/26,03/26,NA,03/16,04/26,NA,NA,04/26,hikma_work
+NA,NA,08,08101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03/18,03/16,03/25,03/26,04/22,NA,03/25,NA,NA,03/25,hikma_work
