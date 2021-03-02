@@ -1,3 +1,7 @@
+Repduction package downloaded at https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F0o0win60iwsdnyl%2FPolarization_PublicHealth_Replication.zip%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNFoYC1NL9027dvozCiDsJBCDP7CCw
+
+Full paper (with appendices) availiable at https://www.nber.org/system/files/working_papers/w26946/w26946.pdf
+
 # VirusGPS README
 
 ## Overview
