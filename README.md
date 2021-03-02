@@ -2,6 +2,8 @@ Repduction package downloaded at https://www.google.com/url?q=https%3A%2F%2Fwww.
 
 Full paper (with appendices) availiable at https://www.nber.org/system/files/working_papers/w26946/w26946.pdf
 
+No changes made to package (3/1/2021)
+
 # VirusGPS README
 
 ## Overview
